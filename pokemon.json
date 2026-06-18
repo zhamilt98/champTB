@@ -1,0 +1,6232 @@
+[
+    {
+        "name": "Snorlax",
+        "dex_no": "#143",
+        "types": [
+            "normal"
+        ],
+        "abilities": [
+            "Immunity",
+            "Thick Fat",
+            "Gluttony"
+        ],
+        "stats": {
+            "hp": 160,
+            "atk": 110,
+            "def": 65,
+            "spa": 65,
+            "spd": 110,
+            "spe": 30
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/143.png"
+    },
+    {
+        "name": "Vaporeon",
+        "dex_no": "#134",
+        "types": [
+            "water"
+        ],
+        "abilities": [
+            "Water Absorb",
+            "Hydration"
+        ],
+        "stats": {
+            "hp": 130,
+            "atk": 65,
+            "def": 60,
+            "spa": 110,
+            "spd": 95,
+            "spe": 65
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/134.png"
+    },
+    {
+        "name": "Aurorus",
+        "dex_no": "#699",
+        "types": [
+            "rock",
+            "ice"
+        ],
+        "abilities": [
+            "Refrigerate",
+            "Snow Warning"
+        ],
+        "stats": {
+            "hp": 123,
+            "atk": 77,
+            "def": 72,
+            "spa": 99,
+            "spd": 92,
+            "spe": 58
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/699.png"
+    },
+    {
+        "name": "Basculegion",
+        "dex_no": "#902",
+        "types": [
+            "water",
+            "ghost"
+        ],
+        "abilities": [
+            "Swift Swim",
+            "Adaptability",
+            "Mold Breaker"
+        ],
+        "stats": {
+            "hp": 120,
+            "atk": 112,
+            "def": 65,
+            "spa": 80,
+            "spd": 75,
+            "spe": 78
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/902.png"
+    },
+    {
+        "name": "Farigiraf",
+        "dex_no": "#981",
+        "types": [
+            "normal",
+            "psychic"
+        ],
+        "abilities": [
+            "Cud Chew",
+            "Armor Tail",
+            "Sap Sipper"
+        ],
+        "stats": {
+            "hp": 120,
+            "atk": 90,
+            "def": 70,
+            "spa": 110,
+            "spd": 70,
+            "spe": 60
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/981.png"
+    },
+    {
+        "name": "Basculegion (Female)",
+        "dex_no": "#902",
+        "types": [
+            "water",
+            "ghost"
+        ],
+        "abilities": [
+            "Swift Swim",
+            "Adaptability",
+            "Mold Breaker"
+        ],
+        "stats": {
+            "hp": 120,
+            "atk": 92,
+            "def": 65,
+            "spa": 100,
+            "spd": 75,
+            "spe": 78
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/902-f.png"
+    },
+    {
+        "name": "Musharna",
+        "dex_no": "#518",
+        "types": [
+            "psychic"
+        ],
+        "abilities": [
+            "Forewarn",
+            "Synchronize",
+            "Telepathy"
+        ],
+        "stats": {
+            "hp": 116,
+            "atk": 55,
+            "def": 85,
+            "spa": 107,
+            "spd": 95,
+            "spe": 29
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/518.png"
+    },
+    {
+        "name": "Rhyperior",
+        "dex_no": "#464",
+        "types": [
+            "ground",
+            "rock"
+        ],
+        "abilities": [
+            "Lightning Rod",
+            "Solid Rock",
+            "Reckless"
+        ],
+        "stats": {
+            "hp": 115,
+            "atk": 140,
+            "def": 130,
+            "spa": 55,
+            "spd": 55,
+            "spe": 40
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/464.png"
+    },
+    {
+        "name": "Mamoswine",
+        "dex_no": "#473",
+        "types": [
+            "ice",
+            "ground"
+        ],
+        "abilities": [
+            "Oblivious",
+            "Snow Cloak",
+            "Thick Fat"
+        ],
+        "stats": {
+            "hp": 110,
+            "atk": 130,
+            "def": 80,
+            "spa": 70,
+            "spd": 60,
+            "spe": 80
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/473.png"
+    },
+    {
+        "name": "Emboar",
+        "dex_no": "#500",
+        "types": [
+            "fire",
+            "fighting"
+        ],
+        "abilities": [
+            "Blaze",
+            "Reckless"
+        ],
+        "stats": {
+            "hp": 110,
+            "atk": 123,
+            "def": 65,
+            "spa": 100,
+            "spd": 65,
+            "spe": 65
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/500.png"
+    },
+    {
+        "name": "Excadrill",
+        "dex_no": "#530",
+        "types": [
+            "ground",
+            "steel"
+        ],
+        "abilities": [
+            "Sand Rush",
+            "Sand Force",
+            "Mold Breaker"
+        ],
+        "stats": {
+            "hp": 110,
+            "atk": 135,
+            "def": 60,
+            "spa": 50,
+            "spd": 65,
+            "spe": 88
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/530.png"
+    },
+    {
+        "name": "Reuniclus",
+        "dex_no": "#579",
+        "types": [
+            "psychic"
+        ],
+        "abilities": [
+            "Overcoat",
+            "Magic Guard",
+            "Regenerator"
+        ],
+        "stats": {
+            "hp": 110,
+            "atk": 65,
+            "def": 75,
+            "spa": 125,
+            "spd": 85,
+            "spe": 30
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/579.png"
+    },
+    {
+        "name": "Appletun",
+        "dex_no": "#842",
+        "types": [
+            "grass",
+            "dragon"
+        ],
+        "abilities": [
+            "Ripen",
+            "Gluttony",
+            "Thick Fat"
+        ],
+        "stats": {
+            "hp": 110,
+            "atk": 85,
+            "def": 80,
+            "spa": 100,
+            "spd": 80,
+            "spe": 30
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/842.png"
+    },
+    {
+        "name": "Mega Emboar",
+        "dex_no": "#500",
+        "types": [
+            "fire",
+            "fighting"
+        ],
+        "abilities": [
+            "Mold Breaker"
+        ],
+        "stats": {
+            "hp": 110,
+            "atk": 148,
+            "def": 75,
+            "spa": 110,
+            "spd": 110,
+            "spe": 75
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/500-m.png"
+    },
+    {
+        "name": "Mega Excadrill",
+        "dex_no": "#530",
+        "types": [
+            "ground",
+            "steel"
+        ],
+        "abilities": [
+            "Piercing Drill"
+        ],
+        "stats": {
+            "hp": 110,
+            "atk": 165,
+            "def": 100,
+            "spa": 65,
+            "spd": 65,
+            "spe": 103
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/530-m.png"
+    },
+    {
+        "name": "Annihilape",
+        "dex_no": "#979",
+        "types": [
+            "fighting",
+            "ghost"
+        ],
+        "abilities": [
+            "Vital Spirit",
+            "Inner Focus",
+            "Defiant"
+        ],
+        "stats": {
+            "hp": 110,
+            "atk": 115,
+            "def": 80,
+            "spa": 50,
+            "spd": 90,
+            "spe": 90
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/979.png"
+    },
+    {
+        "name": "Stunfisk",
+        "dex_no": "#618",
+        "types": [
+            "ground",
+            "electric"
+        ],
+        "abilities": [
+            "Static",
+            "Limber",
+            "Sand Veil"
+        ],
+        "stats": {
+            "hp": 109,
+            "atk": 66,
+            "def": 84,
+            "spa": 81,
+            "spd": 99,
+            "spe": 32
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/618.png"
+    },
+    {
+        "name": "Bellibolt",
+        "dex_no": "#939",
+        "types": [
+            "electric"
+        ],
+        "abilities": [
+            "Electromorphosis",
+            "Static",
+            "Damp"
+        ],
+        "stats": {
+            "hp": 109,
+            "atk": 64,
+            "def": 91,
+            "spa": 103,
+            "spd": 83,
+            "spe": 45
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/939.png"
+    },
+    {
+        "name": "Galarian Stunfisk",
+        "dex_no": "#618",
+        "types": [
+            "ground",
+            "steel"
+        ],
+        "abilities": [
+            "Mimicry"
+        ],
+        "stats": {
+            "hp": 109,
+            "atk": 81,
+            "def": 99,
+            "spa": 66,
+            "spd": 84,
+            "spe": 32
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/618-g.png"
+    },
+    {
+        "name": "Garchomp",
+        "dex_no": "#445",
+        "types": [
+            "dragon",
+            "ground"
+        ],
+        "abilities": [
+            "Sand Veil",
+            "Rough Skin"
+        ],
+        "stats": {
+            "hp": 108,
+            "atk": 130,
+            "def": 95,
+            "spa": 80,
+            "spd": 85,
+            "spe": 102
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/445.png"
+    },
+    {
+        "name": "Hippowdon",
+        "dex_no": "#450",
+        "types": [
+            "ground"
+        ],
+        "abilities": [
+            "Sand Stream",
+            "Sand Force"
+        ],
+        "stats": {
+            "hp": 108,
+            "atk": 112,
+            "def": 118,
+            "spa": 68,
+            "spd": 72,
+            "spe": 47
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/450.png"
+    },
+    {
+        "name": "Mega Garchomp",
+        "dex_no": "#445",
+        "types": [
+            "dragon",
+            "ground"
+        ],
+        "abilities": [
+            "Sand Force"
+        ],
+        "stats": {
+            "hp": 108,
+            "atk": 170,
+            "def": 115,
+            "spa": 120,
+            "spd": 95,
+            "spe": 92
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/445-m.png"
+    },
+    {
+        "name": "Hydrapple",
+        "dex_no": "#1019",
+        "types": [
+            "grass",
+            "dragon"
+        ],
+        "abilities": [
+            "Supersweet Syrup",
+            "Regenerator",
+            "Sticky Hold"
+        ],
+        "stats": {
+            "hp": 106,
+            "atk": 80,
+            "def": 110,
+            "spa": 120,
+            "spd": 80,
+            "spe": 44
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/1019.png"
+    },
+    {
+        "name": "Kangaskhan",
+        "dex_no": "#115",
+        "types": [
+            "normal"
+        ],
+        "abilities": [
+            "Early Bird",
+            "Scrappy",
+            "Inner Focus"
+        ],
+        "stats": {
+            "hp": 105,
+            "atk": 95,
+            "def": 80,
+            "spa": 40,
+            "spd": 80,
+            "spe": 90
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/115.png"
+    },
+    {
+        "name": "Conkeldurr",
+        "dex_no": "#534",
+        "types": [
+            "fighting"
+        ],
+        "abilities": [
+            "Guts",
+            "Sheer Force",
+            "Iron Fist"
+        ],
+        "stats": {
+            "hp": 105,
+            "atk": 140,
+            "def": 95,
+            "spa": 55,
+            "spd": 65,
+            "spe": 45
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/534.png"
+    },
+    {
+        "name": "Mega Kangaskhan",
+        "dex_no": "#115",
+        "types": [
+            "normal"
+        ],
+        "abilities": [
+            "Parental Bond"
+        ],
+        "stats": {
+            "hp": 105,
+            "atk": 125,
+            "def": 100,
+            "spa": 60,
+            "spd": 100,
+            "spe": 100
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/115-m.png"
+    },
+    {
+        "name": "Skeledirge",
+        "dex_no": "#911",
+        "types": [
+            "fire",
+            "ghost"
+        ],
+        "abilities": [
+            "Blaze",
+            "Unaware"
+        ],
+        "stats": {
+            "hp": 104,
+            "atk": 75,
+            "def": 100,
+            "spa": 110,
+            "spd": 75,
+            "spe": 66
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/911.png"
+    },
+    {
+        "name": "Audino",
+        "dex_no": "#531",
+        "types": [
+            "normal"
+        ],
+        "abilities": [
+            "Healer",
+            "Regenerator",
+            "Klutz"
+        ],
+        "stats": {
+            "hp": 103,
+            "atk": 60,
+            "def": 86,
+            "spa": 60,
+            "spd": 86,
+            "spe": 50
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/531.png"
+    },
+    {
+        "name": "Wyrdeer",
+        "dex_no": "#899",
+        "types": [
+            "normal",
+            "psychic"
+        ],
+        "abilities": [
+            "Intimidate",
+            "Frisk",
+            "Sap Sipper"
+        ],
+        "stats": {
+            "hp": 103,
+            "atk": 105,
+            "def": 72,
+            "spa": 105,
+            "spd": 75,
+            "spe": 65
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/899.png"
+    },
+    {
+        "name": "Mega Audino",
+        "dex_no": "#531",
+        "types": [
+            "normal",
+            "fairy"
+        ],
+        "abilities": [
+            "Healer"
+        ],
+        "stats": {
+            "hp": 103,
+            "atk": 60,
+            "def": 126,
+            "spa": 80,
+            "spd": 126,
+            "spe": 50
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/531-m.png"
+    },
+    {
+        "name": "Aromatisse",
+        "dex_no": "#683",
+        "types": [
+            "fairy"
+        ],
+        "abilities": [
+            "Healer",
+            "Aroma Veil"
+        ],
+        "stats": {
+            "hp": 101,
+            "atk": 72,
+            "def": 72,
+            "spa": 99,
+            "spd": 89,
+            "spe": 29
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/683.png"
+    },
+    {
+        "name": "Azumarill",
+        "dex_no": "#184",
+        "types": [
+            "water",
+            "fairy"
+        ],
+        "abilities": [
+            "Thick Fat",
+            "Huge Power",
+            "Sap Sipper"
+        ],
+        "stats": {
+            "hp": 100,
+            "atk": 50,
+            "def": 80,
+            "spa": 60,
+            "spd": 80,
+            "spe": 50
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/184.png"
+    },
+    {
+        "name": "Tyranitar",
+        "dex_no": "#248",
+        "types": [
+            "rock",
+            "dark"
+        ],
+        "abilities": [
+            "Sand Stream",
+            "Unnerve"
+        ],
+        "stats": {
+            "hp": 100,
+            "atk": 134,
+            "def": 110,
+            "spa": 95,
+            "spd": 100,
+            "spe": 61
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/248.png"
+    },
+    {
+        "name": "Mudsdale",
+        "dex_no": "#750",
+        "types": [
+            "ground"
+        ],
+        "abilities": [
+            "Own Tempo",
+            "Stamina",
+            "Inner Focus"
+        ],
+        "stats": {
+            "hp": 100,
+            "atk": 125,
+            "def": 100,
+            "spa": 55,
+            "spd": 85,
+            "spe": 35
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/750.png"
+    },
+    {
+        "name": "Passimian",
+        "dex_no": "#766",
+        "types": [
+            "fighting"
+        ],
+        "abilities": [
+            "Receiver",
+            "Defiant"
+        ],
+        "stats": {
+            "hp": 100,
+            "atk": 120,
+            "def": 90,
+            "spa": 40,
+            "spd": 60,
+            "spe": 80
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/766.png"
+    },
+    {
+        "name": "Garganacl",
+        "dex_no": "#934",
+        "types": [
+            "rock"
+        ],
+        "abilities": [
+            "Purifying Salt",
+            "Sturdy",
+            "Clear Body"
+        ],
+        "stats": {
+            "hp": 100,
+            "atk": 100,
+            "def": 130,
+            "spa": 45,
+            "spd": 90,
+            "spe": 35
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/934.png"
+    },
+    {
+        "name": "Palafin",
+        "dex_no": "#964",
+        "types": [
+            "water"
+        ],
+        "abilities": [
+            "Zero to Hero"
+        ],
+        "stats": {
+            "hp": 100,
+            "atk": 70,
+            "def": 72,
+            "spa": 53,
+            "spd": 62,
+            "spe": 100
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/964.png"
+    },
+    {
+        "name": "Kingambit",
+        "dex_no": "#983",
+        "types": [
+            "dark",
+            "steel"
+        ],
+        "abilities": [
+            "Defiant",
+            "Supreme Overlord",
+            "Pressure"
+        ],
+        "stats": {
+            "hp": 100,
+            "atk": 135,
+            "def": 120,
+            "spa": 60,
+            "spd": 85,
+            "spe": 50
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/983.png"
+    },
+    {
+        "name": "Mega Tyranitar",
+        "dex_no": "#248",
+        "types": [
+            "rock",
+            "dark"
+        ],
+        "abilities": [
+            "Sand Stream"
+        ],
+        "stats": {
+            "hp": 100,
+            "atk": 164,
+            "def": 150,
+            "spa": 95,
+            "spd": 120,
+            "spe": 71
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/248-m.png"
+    },
+    {
+        "name": "Palafin (Hero)",
+        "dex_no": "#964",
+        "types": [
+            "water"
+        ],
+        "abilities": [
+            "Zero to Hero"
+        ],
+        "stats": {
+            "hp": 100,
+            "atk": 160,
+            "def": 97,
+            "spa": 106,
+            "spd": 87,
+            "spe": 100
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/964-h.png"
+    },
+    {
+        "name": "Swampert",
+        "dex_no": "#260",
+        "types": [
+            "water",
+            "ground"
+        ],
+        "abilities": [
+            "Torrent",
+            "Damp"
+        ],
+        "stats": {
+            "hp": 100,
+            "atk": 110,
+            "def": 90,
+            "spa": 85,
+            "spd": 90,
+            "spe": 60
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/260.png"
+    },
+    {
+        "name": "Mega Swampert",
+        "dex_no": "#260",
+        "types": [
+            "water",
+            "ground"
+        ],
+        "abilities": [
+            "Swift Swim"
+        ],
+        "stats": {
+            "hp": 100,
+            "atk": 150,
+            "def": 110,
+            "spa": 95,
+            "spd": 110,
+            "spe": 70
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/260-m.png"
+    },
+    {
+        "name": "Corviknight",
+        "dex_no": "#823",
+        "types": [
+            "flying",
+            "steel"
+        ],
+        "abilities": [
+            "Pressure",
+            "Unnerve",
+            "Mirror Armor"
+        ],
+        "stats": {
+            "hp": 98,
+            "atk": 87,
+            "def": 105,
+            "spa": 53,
+            "spd": 85,
+            "spe": 67
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/823.png"
+    },
+    {
+        "name": "Rampardos",
+        "dex_no": "#409",
+        "types": [
+            "rock"
+        ],
+        "abilities": [
+            "Mold Breaker",
+            "Sheer Force"
+        ],
+        "stats": {
+            "hp": 97,
+            "atk": 165,
+            "def": 60,
+            "spa": 65,
+            "spd": 50,
+            "spe": 58
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/409.png"
+    },
+    {
+        "name": "Crabominable",
+        "dex_no": "#740",
+        "types": [
+            "fighting",
+            "ice"
+        ],
+        "abilities": [
+            "Hyper Cutter",
+            "Iron Fist",
+            "Anger Point"
+        ],
+        "stats": {
+            "hp": 97,
+            "atk": 132,
+            "def": 77,
+            "spa": 62,
+            "spd": 67,
+            "spe": 43
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/740.png"
+    },
+    {
+        "name": "Mega Crabominable",
+        "dex_no": "#740",
+        "types": [
+            "fighting",
+            "ice"
+        ],
+        "abilities": [
+            "Iron Fist"
+        ],
+        "stats": {
+            "hp": 97,
+            "atk": 157,
+            "def": 122,
+            "spa": 62,
+            "spd": 107,
+            "spe": 33
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/740-m.png"
+    },
+    {
+        "name": "Clefable",
+        "dex_no": "#036",
+        "types": [
+            "fairy"
+        ],
+        "abilities": [
+            "Cute Charm",
+            "Magic Guard",
+            "Unaware"
+        ],
+        "stats": {
+            "hp": 95,
+            "atk": 70,
+            "def": 73,
+            "spa": 95,
+            "spd": 90,
+            "spe": 60
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/036.png"
+    },
+    {
+        "name": "Slowbro",
+        "dex_no": "#080",
+        "types": [
+            "water",
+            "psychic"
+        ],
+        "abilities": [
+            "Oblivious",
+            "Own Tempo",
+            "Regenerator"
+        ],
+        "stats": {
+            "hp": 95,
+            "atk": 75,
+            "def": 110,
+            "spa": 100,
+            "spd": 80,
+            "spe": 30
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/080.png"
+    },
+    {
+        "name": "Gyarados",
+        "dex_no": "#130",
+        "types": [
+            "water",
+            "flying"
+        ],
+        "abilities": [
+            "Intimidate",
+            "Moxie"
+        ],
+        "stats": {
+            "hp": 95,
+            "atk": 125,
+            "def": 79,
+            "spa": 60,
+            "spd": 100,
+            "spe": 81
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/130.png"
+    },
+    {
+        "name": "Umbreon",
+        "dex_no": "#197",
+        "types": [
+            "dark"
+        ],
+        "abilities": [
+            "Synchronize",
+            "Inner Focus"
+        ],
+        "stats": {
+            "hp": 95,
+            "atk": 65,
+            "def": 110,
+            "spa": 60,
+            "spd": 130,
+            "spe": 65
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/197.png"
+    },
+    {
+        "name": "Slowking",
+        "dex_no": "#199",
+        "types": [
+            "water",
+            "psychic"
+        ],
+        "abilities": [
+            "Oblivious",
+            "Own Tempo",
+            "Regenerator"
+        ],
+        "stats": {
+            "hp": 95,
+            "atk": 75,
+            "def": 80,
+            "spa": 100,
+            "spd": 110,
+            "spe": 30
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/199.png"
+    },
+    {
+        "name": "Milotic",
+        "dex_no": "#350",
+        "types": [
+            "water"
+        ],
+        "abilities": [
+            "Marvel Scale",
+            "Competitive",
+            "Cute Charm"
+        ],
+        "stats": {
+            "hp": 95,
+            "atk": 60,
+            "def": 79,
+            "spa": 100,
+            "spd": 125,
+            "spe": 81
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/350.png"
+    },
+    {
+        "name": "Torterra",
+        "dex_no": "#389",
+        "types": [
+            "grass",
+            "ground"
+        ],
+        "abilities": [
+            "Overgrow",
+            "Shell Armor"
+        ],
+        "stats": {
+            "hp": 95,
+            "atk": 109,
+            "def": 105,
+            "spa": 75,
+            "spd": 85,
+            "spe": 56
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/389.png"
+    },
+    {
+        "name": "Samurott",
+        "dex_no": "#503",
+        "types": [
+            "water"
+        ],
+        "abilities": [
+            "Torrent",
+            "Shell Armor"
+        ],
+        "stats": {
+            "hp": 95,
+            "atk": 100,
+            "def": 85,
+            "spa": 108,
+            "spd": 70,
+            "spe": 70
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/503.png"
+    },
+    {
+        "name": "Krookodile",
+        "dex_no": "#553",
+        "types": [
+            "ground",
+            "dark"
+        ],
+        "abilities": [
+            "Intimidate",
+            "Moxie",
+            "Anger Point"
+        ],
+        "stats": {
+            "hp": 95,
+            "atk": 117,
+            "def": 80,
+            "spa": 65,
+            "spd": 70,
+            "spe": 92
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/553.png"
+    },
+    {
+        "name": "Beartic",
+        "dex_no": "#614",
+        "types": [
+            "ice"
+        ],
+        "abilities": [
+            "Snow Cloak",
+            "Slush Rush",
+            "Swift Swim"
+        ],
+        "stats": {
+            "hp": 95,
+            "atk": 130,
+            "def": 80,
+            "spa": 70,
+            "spd": 80,
+            "spe": 50
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/614.png"
+    },
+    {
+        "name": "Pangoro",
+        "dex_no": "#675",
+        "types": [
+            "fighting",
+            "dark"
+        ],
+        "abilities": [
+            "Iron Fist",
+            "Mold Breaker",
+            "Scrappy"
+        ],
+        "stats": {
+            "hp": 95,
+            "atk": 124,
+            "def": 78,
+            "spa": 69,
+            "spd": 71,
+            "spe": 58
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/675.png"
+    },
+    {
+        "name": "Sylveon",
+        "dex_no": "#700",
+        "types": [
+            "fairy"
+        ],
+        "abilities": [
+            "Cute Charm",
+            "Pixilate"
+        ],
+        "stats": {
+            "hp": 95,
+            "atk": 65,
+            "def": 65,
+            "spa": 110,
+            "spd": 130,
+            "spe": 60
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/700.png"
+    },
+    {
+        "name": "Avalugg",
+        "dex_no": "#713",
+        "types": [
+            "ice"
+        ],
+        "abilities": [
+            "Own Tempo",
+            "Ice Body",
+            "Sturdy"
+        ],
+        "stats": {
+            "hp": 95,
+            "atk": 117,
+            "def": 184,
+            "spa": 44,
+            "spd": 46,
+            "spe": 28
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/713.png"
+    },
+    {
+        "name": "Incineroar",
+        "dex_no": "#727",
+        "types": [
+            "fire",
+            "dark"
+        ],
+        "abilities": [
+            "Blaze",
+            "Intimidate"
+        ],
+        "stats": {
+            "hp": 95,
+            "atk": 115,
+            "def": 90,
+            "spa": 80,
+            "spd": 90,
+            "spe": 60
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/727.png"
+    },
+    {
+        "name": "Espathra",
+        "dex_no": "#956",
+        "types": [
+            "psychic"
+        ],
+        "abilities": [
+            "Opportunist",
+            "Frisk",
+            "Speed Boost"
+        ],
+        "stats": {
+            "hp": 95,
+            "atk": 60,
+            "def": 60,
+            "spa": 101,
+            "spd": 60,
+            "spe": 105
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/956.png"
+    },
+    {
+        "name": "Mega Clefable",
+        "dex_no": "#036",
+        "types": [
+            "fairy",
+            "flying"
+        ],
+        "abilities": [
+            "Magic Bounce"
+        ],
+        "stats": {
+            "hp": 95,
+            "atk": 80,
+            "def": 93,
+            "spa": 135,
+            "spd": 110,
+            "spe": 70
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/036-m.png"
+    },
+    {
+        "name": "Hisuian Arcanine",
+        "dex_no": "#059",
+        "types": [
+            "fire",
+            "rock"
+        ],
+        "abilities": [
+            "Intimidate",
+            "Flash Fire",
+            "Rock Head"
+        ],
+        "stats": {
+            "hp": 95,
+            "atk": 115,
+            "def": 80,
+            "spa": 95,
+            "spd": 80,
+            "spe": 90
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/059-h.png"
+    },
+    {
+        "name": "Galarian Slowbro",
+        "dex_no": "#080",
+        "types": [
+            "poison",
+            "psychic"
+        ],
+        "abilities": [
+            "Quick Draw",
+            "Own Tempo",
+            "Regenerator"
+        ],
+        "stats": {
+            "hp": 95,
+            "atk": 100,
+            "def": 95,
+            "spa": 100,
+            "spd": 70,
+            "spe": 30
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/080-g.png"
+    },
+    {
+        "name": "Mega Gyarados",
+        "dex_no": "#130",
+        "types": [
+            "water",
+            "dark"
+        ],
+        "abilities": [
+            "Mold Breaker"
+        ],
+        "stats": {
+            "hp": 95,
+            "atk": 155,
+            "def": 109,
+            "spa": 70,
+            "spd": 130,
+            "spe": 81
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/130-m.png"
+    },
+    {
+        "name": "Galarian Slowking",
+        "dex_no": "#199",
+        "types": [
+            "poison",
+            "psychic"
+        ],
+        "abilities": [
+            "Curious Medicine",
+            "Own Tempo",
+            "Regenerator"
+        ],
+        "stats": {
+            "hp": 95,
+            "atk": 65,
+            "def": 80,
+            "spa": 110,
+            "spd": 110,
+            "spe": 30
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/199-g.png"
+    },
+    {
+        "name": "Hisuian Avalugg",
+        "dex_no": "#713",
+        "types": [
+            "ice",
+            "rock"
+        ],
+        "abilities": [
+            "Strong Jaw",
+            "Ice Body",
+            "Sturdy"
+        ],
+        "stats": {
+            "hp": 95,
+            "atk": 127,
+            "def": 184,
+            "spa": 34,
+            "spd": 36,
+            "spe": 38
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/713-h.png"
+    },
+    {
+        "name": "Grimmsnarl",
+        "dex_no": "#861",
+        "types": [
+            "dark",
+            "fairy"
+        ],
+        "abilities": [
+            "Prankster",
+            "Frisk",
+            "Pickpocket"
+        ],
+        "stats": {
+            "hp": 95,
+            "atk": 120,
+            "def": 65,
+            "spa": 95,
+            "spd": 75,
+            "spe": 60
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/861.png"
+    },
+    {
+        "name": "Mega Slowbro",
+        "dex_no": "#080",
+        "types": [
+            "water",
+            "psychic"
+        ],
+        "abilities": [
+            "Shell Armor"
+        ],
+        "stats": {
+            "hp": 95,
+            "atk": 75,
+            "def": 180,
+            "spa": 130,
+            "spd": 80,
+            "spe": 30
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/080-m.png"
+    },
+    {
+        "name": "Hydreigon",
+        "dex_no": "#635",
+        "types": [
+            "dark",
+            "dragon"
+        ],
+        "abilities": [
+            "Levitate"
+        ],
+        "stats": {
+            "hp": 92,
+            "atk": 105,
+            "def": 90,
+            "spa": 125,
+            "spd": 90,
+            "spe": 98
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/635.png"
+    },
+    {
+        "name": "Dragonite",
+        "dex_no": "#149",
+        "types": [
+            "dragon",
+            "flying"
+        ],
+        "abilities": [
+            "Inner Focus",
+            "Multiscale"
+        ],
+        "stats": {
+            "hp": 91,
+            "atk": 134,
+            "def": 95,
+            "spa": 100,
+            "spd": 100,
+            "spe": 80
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/149.png"
+    },
+    {
+        "name": "Mega Dragonite",
+        "dex_no": "#149",
+        "types": [
+            "dragon",
+            "flying"
+        ],
+        "abilities": [
+            "Multiscale"
+        ],
+        "stats": {
+            "hp": 91,
+            "atk": 124,
+            "def": 115,
+            "spa": 145,
+            "spd": 125,
+            "spe": 100
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/149-m.png"
+    },
+    {
+        "name": "Arcanine",
+        "dex_no": "#059",
+        "types": [
+            "fire"
+        ],
+        "abilities": [
+            "Intimidate",
+            "Flash Fire",
+            "Justified"
+        ],
+        "stats": {
+            "hp": 90,
+            "atk": 110,
+            "def": 80,
+            "spa": 100,
+            "spd": 80,
+            "spe": 95
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/059.png"
+    },
+    {
+        "name": "Machamp",
+        "dex_no": "#068",
+        "types": [
+            "fighting"
+        ],
+        "abilities": [
+            "Guts",
+            "No Guard",
+            "Steadfast"
+        ],
+        "stats": {
+            "hp": 90,
+            "atk": 130,
+            "def": 80,
+            "spa": 65,
+            "spd": 85,
+            "spe": 55
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/068.png"
+    },
+    {
+        "name": "Ampharos",
+        "dex_no": "#181",
+        "types": [
+            "electric"
+        ],
+        "abilities": [
+            "Static",
+            "Plus"
+        ],
+        "stats": {
+            "hp": 90,
+            "atk": 75,
+            "def": 85,
+            "spa": 115,
+            "spd": 90,
+            "spe": 55
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/181.png"
+    },
+    {
+        "name": "Politoed",
+        "dex_no": "#186",
+        "types": [
+            "water"
+        ],
+        "abilities": [
+            "Water Absorb",
+            "Damp",
+            "Drizzle"
+        ],
+        "stats": {
+            "hp": 90,
+            "atk": 75,
+            "def": 75,
+            "spa": 90,
+            "spd": 100,
+            "spe": 70
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/186.png"
+    },
+    {
+        "name": "Abomasnow",
+        "dex_no": "#460",
+        "types": [
+            "grass",
+            "ice"
+        ],
+        "abilities": [
+            "Snow Warning",
+            "Soundproof"
+        ],
+        "stats": {
+            "hp": 90,
+            "atk": 92,
+            "def": 75,
+            "spa": 92,
+            "spd": 85,
+            "spe": 60
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/460.png"
+    },
+    {
+        "name": "Goodra",
+        "dex_no": "#706",
+        "types": [
+            "dragon"
+        ],
+        "abilities": [
+            "Sap Sipper",
+            "Hydration",
+            "Gooey"
+        ],
+        "stats": {
+            "hp": 90,
+            "atk": 100,
+            "def": 70,
+            "spa": 110,
+            "spd": 150,
+            "spe": 80
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/706.png"
+    },
+    {
+        "name": "Oranguru",
+        "dex_no": "#765",
+        "types": [
+            "normal",
+            "psychic"
+        ],
+        "abilities": [
+            "Inner Focus",
+            "Telepathy",
+            "Symbiosis"
+        ],
+        "stats": {
+            "hp": 90,
+            "atk": 60,
+            "def": 80,
+            "spa": 90,
+            "spd": 110,
+            "spe": 60
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/765.png"
+    },
+    {
+        "name": "Archaludon",
+        "dex_no": "#1018",
+        "types": [
+            "steel",
+            "dragon"
+        ],
+        "abilities": [
+            "Stamina",
+            "Sturdy",
+            "Stalwart"
+        ],
+        "stats": {
+            "hp": 90,
+            "atk": 105,
+            "def": 130,
+            "spa": 125,
+            "spd": 65,
+            "spe": 85
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/1018.png"
+    },
+    {
+        "name": "Mega Ampharos",
+        "dex_no": "#181",
+        "types": [
+            "electric",
+            "dragon"
+        ],
+        "abilities": [
+            "Mold Breaker"
+        ],
+        "stats": {
+            "hp": 90,
+            "atk": 95,
+            "def": 105,
+            "spa": 165,
+            "spd": 110,
+            "spe": 45
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/181-m.png"
+    },
+    {
+        "name": "Mega Abomasnow",
+        "dex_no": "#460",
+        "types": [
+            "grass",
+            "ice"
+        ],
+        "abilities": [
+            "Snow Warning"
+        ],
+        "stats": {
+            "hp": 90,
+            "atk": 132,
+            "def": 105,
+            "spa": 132,
+            "spd": 105,
+            "spe": 30
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/460-m.png"
+    },
+    {
+        "name": "Hisuian Samurott",
+        "dex_no": "#503",
+        "types": [
+            "water",
+            "dark"
+        ],
+        "abilities": [
+            "Torrent",
+            "Sharpness"
+        ],
+        "stats": {
+            "hp": 90,
+            "atk": 108,
+            "def": 80,
+            "spa": 100,
+            "spd": 65,
+            "spe": 85
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/503-h.png"
+    },
+    {
+        "name": "Golurk",
+        "dex_no": "#623",
+        "types": [
+            "ground",
+            "ghost"
+        ],
+        "abilities": [
+            "Iron Fist",
+            "Klutz",
+            "No Guard"
+        ],
+        "stats": {
+            "hp": 89,
+            "atk": 124,
+            "def": 80,
+            "spa": 55,
+            "spd": 80,
+            "spe": 55
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/623.png"
+    },
+    {
+        "name": "Mega Golurk",
+        "dex_no": "#623",
+        "types": [
+            "ground",
+            "ghost"
+        ],
+        "abilities": [
+            "Unseen Fist"
+        ],
+        "stats": {
+            "hp": 89,
+            "atk": 159,
+            "def": 105,
+            "spa": 70,
+            "spd": 105,
+            "spe": 55
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/623-m.png"
+    },
+    {
+        "name": "Chesnaught",
+        "dex_no": "#652",
+        "types": [
+            "grass",
+            "fighting"
+        ],
+        "abilities": [
+            "Overgrow",
+            "Bulletproof"
+        ],
+        "stats": {
+            "hp": 88,
+            "atk": 107,
+            "def": 122,
+            "spa": 74,
+            "spd": 75,
+            "spe": 64
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/652.png"
+    },
+    {
+        "name": "Dragapult",
+        "dex_no": "#887",
+        "types": [
+            "dragon",
+            "ghost"
+        ],
+        "abilities": [
+            "Clear Body",
+            "Infiltrator",
+            "Cursed Body"
+        ],
+        "stats": {
+            "hp": 88,
+            "atk": 120,
+            "def": 75,
+            "spa": 100,
+            "spd": 75,
+            "spe": 142
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/887.png"
+    },
+    {
+        "name": "Mega Chesnaught",
+        "dex_no": "#652",
+        "types": [
+            "grass",
+            "fighting"
+        ],
+        "abilities": [
+            "Bulletproof"
+        ],
+        "stats": {
+            "hp": 88,
+            "atk": 137,
+            "def": 172,
+            "spa": 74,
+            "spd": 115,
+            "spe": 44
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/652-m.png"
+    },
+    {
+        "name": "Hisuian Decidueye",
+        "dex_no": "#724",
+        "types": [
+            "grass",
+            "fighting"
+        ],
+        "abilities": [
+            "Overgrow",
+            "Scrappy"
+        ],
+        "stats": {
+            "hp": 88,
+            "atk": 112,
+            "def": 80,
+            "spa": 95,
+            "spd": 95,
+            "spe": 60
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/724-h.png"
+    },
+    {
+        "name": "Gholdengo",
+        "dex_no": "#1000",
+        "types": [
+            "steel",
+            "ghost"
+        ],
+        "abilities": [
+            "Good as Gold"
+        ],
+        "stats": {
+            "hp": 87,
+            "atk": 60,
+            "def": 95,
+            "spa": 133,
+            "spd": 91,
+            "spe": 84
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/1000.png"
+    },
+    {
+        "name": "Pyroar",
+        "dex_no": "#668",
+        "types": [
+            "fire",
+            "normal"
+        ],
+        "abilities": [
+            "Rivalry",
+            "Unnerve",
+            "Moxie"
+        ],
+        "stats": {
+            "hp": 86,
+            "atk": 68,
+            "def": 72,
+            "spa": 109,
+            "spd": 66,
+            "spe": 106
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/668.png"
+    },
+    {
+        "name": "Malamar",
+        "dex_no": "#687",
+        "types": [
+            "dark",
+            "psychic"
+        ],
+        "abilities": [
+            "Contrary",
+            "Suction Cups",
+            "Infiltrator"
+        ],
+        "stats": {
+            "hp": 86,
+            "atk": 92,
+            "def": 88,
+            "spa": 68,
+            "spd": 75,
+            "spe": 73
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/687.png"
+    },
+    {
+        "name": "Mega Pyroar",
+        "dex_no": "#668",
+        "types": [
+            "fire",
+            "normal"
+        ],
+        "abilities": [
+            "Fire Mane"
+        ],
+        "stats": {
+            "hp": 86,
+            "atk": 88,
+            "def": 92,
+            "spa": 129,
+            "spd": 86,
+            "spe": 126
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/668-m.png"
+    },
+    {
+        "name": "Mega Malamar",
+        "dex_no": "#687",
+        "types": [
+            "dark",
+            "psychic"
+        ],
+        "abilities": [
+            "Contrary"
+        ],
+        "stats": {
+            "hp": 86,
+            "atk": 102,
+            "def": 88,
+            "spa": 98,
+            "spd": 120,
+            "spe": 88
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/687-m.png"
+    },
+    {
+        "name": "Feraligatr",
+        "dex_no": "#160",
+        "types": [
+            "water"
+        ],
+        "abilities": [
+            "Torrent",
+            "Sheer Force"
+        ],
+        "stats": {
+            "hp": 85,
+            "atk": 105,
+            "def": 100,
+            "spa": 79,
+            "spd": 83,
+            "spe": 78
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/160.png"
+    },
+    {
+        "name": "Volcarona",
+        "dex_no": "#637",
+        "types": [
+            "bug",
+            "fire"
+        ],
+        "abilities": [
+            "Flame Body",
+            "Swarm"
+        ],
+        "stats": {
+            "hp": 85,
+            "atk": 60,
+            "def": 65,
+            "spa": 135,
+            "spd": 105,
+            "spe": 100
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/637.png"
+    },
+    {
+        "name": "Diggersby",
+        "dex_no": "#660",
+        "types": [
+            "normal",
+            "ground"
+        ],
+        "abilities": [
+            "Pickup",
+            "Cheek Pouch",
+            "Huge Power"
+        ],
+        "stats": {
+            "hp": 85,
+            "atk": 56,
+            "def": 77,
+            "spa": 50,
+            "spd": 77,
+            "spe": 78
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/660.png"
+    },
+    {
+        "name": "Trevenant",
+        "dex_no": "#709",
+        "types": [
+            "ghost",
+            "grass"
+        ],
+        "abilities": [
+            "Natural Cure",
+            "Frisk",
+            "Harvest"
+        ],
+        "stats": {
+            "hp": 85,
+            "atk": 110,
+            "def": 76,
+            "spa": 65,
+            "spd": 82,
+            "spe": 56
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/709.png"
+    },
+    {
+        "name": "Noivern",
+        "dex_no": "#715",
+        "types": [
+            "flying",
+            "dragon"
+        ],
+        "abilities": [
+            "Frisk",
+            "Infiltrator",
+            "Telepathy"
+        ],
+        "stats": {
+            "hp": 85,
+            "atk": 70,
+            "def": 80,
+            "spa": 97,
+            "spd": 80,
+            "spe": 123
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/715.png"
+    },
+    {
+        "name": "Quaquaval",
+        "dex_no": "#914",
+        "types": [
+            "water",
+            "fighting"
+        ],
+        "abilities": [
+            "Torrent",
+            "Moxie"
+        ],
+        "stats": {
+            "hp": 85,
+            "atk": 120,
+            "def": 80,
+            "spa": 85,
+            "spd": 75,
+            "spe": 85
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/914.png"
+    },
+    {
+        "name": "Armarouge",
+        "dex_no": "#936",
+        "types": [
+            "fire",
+            "psychic"
+        ],
+        "abilities": [
+            "Flash Fire",
+            "Weak Armor"
+        ],
+        "stats": {
+            "hp": 85,
+            "atk": 60,
+            "def": 100,
+            "spa": 125,
+            "spd": 80,
+            "spe": 75
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/936.png"
+    },
+    {
+        "name": "Tinkaton",
+        "dex_no": "#959",
+        "types": [
+            "fairy",
+            "steel"
+        ],
+        "abilities": [
+            "Mold Breaker",
+            "Own Tempo",
+            "Pickpocket"
+        ],
+        "stats": {
+            "hp": 85,
+            "atk": 75,
+            "def": 77,
+            "spa": 70,
+            "spd": 105,
+            "spe": 94
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/959.png"
+    },
+    {
+        "name": "Mega Feraligatr",
+        "dex_no": "#160",
+        "types": [
+            "water",
+            "dragon"
+        ],
+        "abilities": [
+            "Dragonize"
+        ],
+        "stats": {
+            "hp": 85,
+            "atk": 160,
+            "def": 125,
+            "spa": 89,
+            "spd": 93,
+            "spe": 78
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/160-m.png"
+    },
+    {
+        "name": "Hisuian Gourgeist",
+        "dex_no": "#711",
+        "types": [
+            "ghost",
+            "grass"
+        ],
+        "abilities": [
+            "Pickup",
+            "Frisk",
+            "Insomnia"
+        ],
+        "stats": {
+            "hp": 85,
+            "atk": 100,
+            "def": 122,
+            "spa": 58,
+            "spd": 75,
+            "spe": 54
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/711-h.png"
+    },
+    {
+        "name": "Mega Lycanroc",
+        "dex_no": "#745",
+        "types": [
+            "rock"
+        ],
+        "abilities": [
+            "Keen Eye",
+            "Vital Spirit",
+            "No Guard"
+        ],
+        "stats": {
+            "hp": 85,
+            "atk": 115,
+            "def": 75,
+            "spa": 55,
+            "spd": 75,
+            "spe": 82
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/745-m.png"
+    },
+    {
+        "name": "Staraptor",
+        "dex_no": "#398",
+        "types": [
+            "normal",
+            "flying"
+        ],
+        "abilities": [
+            "Intimidate",
+            "Reckless"
+        ],
+        "stats": {
+            "hp": 85,
+            "atk": 120,
+            "def": 70,
+            "spa": 50,
+            "spd": 60,
+            "spe": 100
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/398.png"
+    },
+    {
+        "name": "Eelektross",
+        "dex_no": "#604",
+        "types": [
+            "electric"
+        ],
+        "abilities": [
+            "Levitate"
+        ],
+        "stats": {
+            "hp": 85,
+            "atk": 115,
+            "def": 80,
+            "spa": 105,
+            "spd": 80,
+            "spe": 50
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/604.png"
+    },
+    {
+        "name": "Overqwil",
+        "dex_no": "#904",
+        "types": [
+            "dark",
+            "poison"
+        ],
+        "abilities": [
+            "Poison Point",
+            "Swift Swim",
+            "Intimidate"
+        ],
+        "stats": {
+            "hp": 85,
+            "atk": 115,
+            "def": 95,
+            "spa": 65,
+            "spd": 65,
+            "spe": 85
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/904.png"
+    },
+    {
+        "name": "Mega Staraptor",
+        "dex_no": "#398",
+        "types": [
+            "fighting",
+            "flying"
+        ],
+        "abilities": [
+            "Contrary"
+        ],
+        "stats": {
+            "hp": 85,
+            "atk": 140,
+            "def": 100,
+            "spa": 60,
+            "spd": 90,
+            "spe": 110
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/398-m.png"
+    },
+    {
+        "name": "Mega Eelektross",
+        "dex_no": "#604",
+        "types": [
+            "electric"
+        ],
+        "abilities": [
+            "Eelevate"
+        ],
+        "stats": {
+            "hp": 85,
+            "atk": 145,
+            "def": 80,
+            "spa": 135,
+            "spd": 90,
+            "spe": 80
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/604-m.png"
+    },
+    {
+        "name": "Empoleon",
+        "dex_no": "#395",
+        "types": [
+            "water",
+            "steel"
+        ],
+        "abilities": [
+            "Torrent",
+            "Competitive"
+        ],
+        "stats": {
+            "hp": 84,
+            "atk": 86,
+            "def": 88,
+            "spa": 111,
+            "spd": 101,
+            "spe": 60
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/395.png"
+    },
+    {
+        "name": "Pidgeot",
+        "dex_no": "#018",
+        "types": [
+            "normal",
+            "flying"
+        ],
+        "abilities": [
+            "Keen Eye",
+            "Tangled Feet",
+            "Big Pecks"
+        ],
+        "stats": {
+            "hp": 83,
+            "atk": 80,
+            "def": 75,
+            "spa": 70,
+            "spd": 70,
+            "spe": 101
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/018.png"
+    },
+    {
+        "name": "Toxicroak",
+        "dex_no": "#454",
+        "types": [
+            "poison",
+            "fighting"
+        ],
+        "abilities": [
+            "Anticipation",
+            "Dry Skin",
+            "Poison Touch"
+        ],
+        "stats": {
+            "hp": 83,
+            "atk": 106,
+            "def": 65,
+            "spa": 86,
+            "spd": 65,
+            "spe": 85
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/454.png"
+    },
+    {
+        "name": "Glimmora",
+        "dex_no": "#970",
+        "types": [
+            "rock",
+            "poison"
+        ],
+        "abilities": [
+            "Toxic Debris",
+            "Corrosion"
+        ],
+        "stats": {
+            "hp": 83,
+            "atk": 55,
+            "def": 90,
+            "spa": 130,
+            "spd": 81,
+            "spe": 86
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/970.png"
+    },
+    {
+        "name": "Mega Pidgeot",
+        "dex_no": "#018",
+        "types": [
+            "normal",
+            "flying"
+        ],
+        "abilities": [
+            "No Guard"
+        ],
+        "stats": {
+            "hp": 83,
+            "atk": 80,
+            "def": 80,
+            "spa": 135,
+            "spd": 80,
+            "spe": 121
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/018-m.png"
+    },
+    {
+        "name": "Mega Glimmora",
+        "dex_no": "#970",
+        "types": [
+            "rock",
+            "poison"
+        ],
+        "abilities": [
+            "Adaptability"
+        ],
+        "stats": {
+            "hp": 83,
+            "atk": 90,
+            "def": 105,
+            "spa": 150,
+            "spd": 96,
+            "spe": 101
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/970-m.png"
+    },
+    {
+        "name": "Slurpuff",
+        "dex_no": "#685",
+        "types": [
+            "fairy"
+        ],
+        "abilities": [
+            "Sweet Veil",
+            "Unburden"
+        ],
+        "stats": {
+            "hp": 82,
+            "atk": 80,
+            "def": 86,
+            "spa": 85,
+            "spd": 75,
+            "spe": 72
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/685.png"
+    },
+    {
+        "name": "Tyrantrum",
+        "dex_no": "#697",
+        "types": [
+            "rock",
+            "dragon"
+        ],
+        "abilities": [
+            "Strong Jaw",
+            "Rock Head"
+        ],
+        "stats": {
+            "hp": 82,
+            "atk": 121,
+            "def": 119,
+            "spa": 69,
+            "spd": 59,
+            "spe": 71
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/697.png"
+    },
+    {
+        "name": "Venusaur",
+        "dex_no": "#003",
+        "types": [
+            "grass",
+            "poison"
+        ],
+        "abilities": [
+            "Overgrow",
+            "Chlorophyll"
+        ],
+        "stats": {
+            "hp": 80,
+            "atk": 82,
+            "def": 83,
+            "spa": 100,
+            "spd": 100,
+            "spe": 80
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/003.png"
+    },
+    {
+        "name": "Victreebel",
+        "dex_no": "#071",
+        "types": [
+            "grass",
+            "poison"
+        ],
+        "abilities": [
+            "Chlorophyll",
+            "Gluttony"
+        ],
+        "stats": {
+            "hp": 80,
+            "atk": 105,
+            "def": 65,
+            "spa": 100,
+            "spd": 70,
+            "spe": 70
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/071.png"
+    },
+    {
+        "name": "Aerodactyl",
+        "dex_no": "#142",
+        "types": [
+            "rock",
+            "flying"
+        ],
+        "abilities": [
+            "Rock Head",
+            "Pressure",
+            "Unnerve"
+        ],
+        "stats": {
+            "hp": 80,
+            "atk": 105,
+            "def": 65,
+            "spa": 60,
+            "spd": 75,
+            "spe": 130
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/142.png"
+    },
+    {
+        "name": "Meganium",
+        "dex_no": "#154",
+        "types": [
+            "grass"
+        ],
+        "abilities": [
+            "Overgrow",
+            "Leaf Guard"
+        ],
+        "stats": {
+            "hp": 80,
+            "atk": 82,
+            "def": 100,
+            "spa": 83,
+            "spd": 100,
+            "spe": 80
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/154.png"
+    },
+    {
+        "name": "Heracross",
+        "dex_no": "#214",
+        "types": [
+            "bug",
+            "fighting"
+        ],
+        "abilities": [
+            "Swarm",
+            "Guts",
+            "Moxie"
+        ],
+        "stats": {
+            "hp": 80,
+            "atk": 125,
+            "def": 75,
+            "spa": 40,
+            "spd": 95,
+            "spe": 85
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/214.png"
+    },
+    {
+        "name": "Glalie",
+        "dex_no": "#362",
+        "types": [
+            "ice"
+        ],
+        "abilities": [
+            "Inner Focus",
+            "Ice Body",
+            "Moody"
+        ],
+        "stats": {
+            "hp": 80,
+            "atk": 80,
+            "def": 80,
+            "spa": 80,
+            "spd": 80,
+            "spe": 80
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/362.png"
+    },
+    {
+        "name": "Luxray",
+        "dex_no": "#405",
+        "types": [
+            "electric"
+        ],
+        "abilities": [
+            "Rivalry",
+            "Intimidate",
+            "Guts"
+        ],
+        "stats": {
+            "hp": 80,
+            "atk": 120,
+            "def": 79,
+            "spa": 95,
+            "spd": 79,
+            "spe": 70
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/405.png"
+    },
+    {
+        "name": "Garbodor",
+        "dex_no": "#569",
+        "types": [
+            "poison"
+        ],
+        "abilities": [
+            "Stench",
+            "Weak Armor",
+            "Aftermath"
+        ],
+        "stats": {
+            "hp": 80,
+            "atk": 95,
+            "def": 82,
+            "spa": 60,
+            "spd": 82,
+            "spe": 75
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/569.png"
+    },
+    {
+        "name": "Vivillon",
+        "dex_no": "#666",
+        "types": [
+            "bug",
+            "flying"
+        ],
+        "abilities": [
+            "Shield Dust",
+            "Compoundeyes",
+            "Friend Guard"
+        ],
+        "stats": {
+            "hp": 80,
+            "atk": 52,
+            "def": 50,
+            "spa": 90,
+            "spd": 50,
+            "spe": 89
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/666.png"
+    },
+    {
+        "name": "Primarina",
+        "dex_no": "#730",
+        "types": [
+            "water",
+            "fairy"
+        ],
+        "abilities": [
+            "Torrent",
+            "Liquid Voice"
+        ],
+        "stats": {
+            "hp": 80,
+            "atk": 74,
+            "def": 74,
+            "spa": 126,
+            "spd": 116,
+            "spe": 60
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/730.png"
+    },
+    {
+        "name": "Toucannon",
+        "dex_no": "#733",
+        "types": [
+            "normal",
+            "flying"
+        ],
+        "abilities": [
+            "Keen Eye",
+            "Skill Link",
+            "Sheer Force"
+        ],
+        "stats": {
+            "hp": 80,
+            "atk": 120,
+            "def": 75,
+            "spa": 75,
+            "spd": 75,
+            "spe": 60
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/733.png"
+    },
+    {
+        "name": "Mr. Rime",
+        "dex_no": "#866",
+        "types": [
+            "ice",
+            "psychic"
+        ],
+        "abilities": [
+            "Tangled Feet",
+            "Screen Cleaner",
+            "Ice Body"
+        ],
+        "stats": {
+            "hp": 80,
+            "atk": 85,
+            "def": 75,
+            "spa": 110,
+            "spd": 100,
+            "spe": 70
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/866.png"
+    },
+    {
+        "name": "Sneasler",
+        "dex_no": "#903",
+        "types": [
+            "fighting",
+            "poison"
+        ],
+        "abilities": [
+            "Pressure",
+            "Unburden",
+            "Poison Touch"
+        ],
+        "stats": {
+            "hp": 80,
+            "atk": 130,
+            "def": 60,
+            "spa": 40,
+            "spd": 80,
+            "spe": 120
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/903.png"
+    },
+    {
+        "name": "Mega Venusaur",
+        "dex_no": "#003",
+        "types": [
+            "grass",
+            "poison"
+        ],
+        "abilities": [
+            "Thick Fat"
+        ],
+        "stats": {
+            "hp": 80,
+            "atk": 100,
+            "def": 123,
+            "spa": 122,
+            "spd": 120,
+            "spe": 80
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/003-m.png"
+    },
+    {
+        "name": "Mega Victreebel",
+        "dex_no": "#071",
+        "types": [
+            "grass",
+            "poison"
+        ],
+        "abilities": [
+            "Innards Out"
+        ],
+        "stats": {
+            "hp": 80,
+            "atk": 125,
+            "def": 85,
+            "spa": 135,
+            "spd": 95,
+            "spe": 70
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/071-m.png"
+    },
+    {
+        "name": "Mega Aerodactyl",
+        "dex_no": "#142",
+        "types": [
+            "rock",
+            "flying"
+        ],
+        "abilities": [
+            "Tough Claws"
+        ],
+        "stats": {
+            "hp": 80,
+            "atk": 135,
+            "def": 85,
+            "spa": 70,
+            "spd": 95,
+            "spe": 150
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/142-m.png"
+    },
+    {
+        "name": "Mega Meganium",
+        "dex_no": "#154",
+        "types": [
+            "grass",
+            "fairy"
+        ],
+        "abilities": [
+            "Mega Sol"
+        ],
+        "stats": {
+            "hp": 80,
+            "atk": 92,
+            "def": 115,
+            "spa": 143,
+            "spd": 115,
+            "spe": 80
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/154-m.png"
+    },
+    {
+        "name": "Mega Heracross",
+        "dex_no": "#214",
+        "types": [
+            "bug",
+            "fighting"
+        ],
+        "abilities": [
+            "Skill Link"
+        ],
+        "stats": {
+            "hp": 80,
+            "atk": 185,
+            "def": 115,
+            "spa": 40,
+            "spd": 105,
+            "spe": 75
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/214-m.png"
+    },
+    {
+        "name": "Mega Glalie",
+        "dex_no": "#362",
+        "types": [
+            "ice"
+        ],
+        "abilities": [
+            "Refrigerate"
+        ],
+        "stats": {
+            "hp": 80,
+            "atk": 120,
+            "def": 80,
+            "spa": 120,
+            "spd": 80,
+            "spe": 100
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/362-m.png"
+    },
+    {
+        "name": "Hisuian Goodra",
+        "dex_no": "#706",
+        "types": [
+            "steel",
+            "dragon"
+        ],
+        "abilities": [
+            "Sap Sipper",
+            "Shell Armor",
+            "Gooey"
+        ],
+        "stats": {
+            "hp": 80,
+            "atk": 100,
+            "def": 100,
+            "spa": 110,
+            "spd": 150,
+            "spe": 60
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/706-h.png"
+    },
+    {
+        "name": "Blaziken",
+        "dex_no": "#257",
+        "types": [
+            "fire",
+            "fighting"
+        ],
+        "abilities": [
+            "Blaze",
+            "Speed Boost"
+        ],
+        "stats": {
+            "hp": 80,
+            "atk": 120,
+            "def": 70,
+            "spa": 110,
+            "spd": 70,
+            "spe": 80
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/257.png"
+    },
+    {
+        "name": "Metagross",
+        "dex_no": "#376",
+        "types": [
+            "steel",
+            "psychic"
+        ],
+        "abilities": [
+            "Clear Body",
+            "Light Metal"
+        ],
+        "stats": {
+            "hp": 80,
+            "atk": 135,
+            "def": 130,
+            "spa": 95,
+            "spd": 90,
+            "spe": 70
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/376.png"
+    },
+    {
+        "name": "Mega Blaziken",
+        "dex_no": "#257",
+        "types": [
+            "fire",
+            "fighting"
+        ],
+        "abilities": [
+            "Speed Boost"
+        ],
+        "stats": {
+            "hp": 80,
+            "atk": 160,
+            "def": 80,
+            "spa": 130,
+            "spd": 80,
+            "spe": 100
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/257-m.png"
+    },
+    {
+        "name": "Mega Metagross",
+        "dex_no": "#376",
+        "types": [
+            "steel",
+            "psychic"
+        ],
+        "abilities": [
+            "Tough Claws"
+        ],
+        "stats": {
+            "hp": 80,
+            "atk": 145,
+            "def": 150,
+            "spa": 105,
+            "spd": 110,
+            "spe": 110
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/376-m.png"
+    },
+    {
+        "name": "Blastoise",
+        "dex_no": "#009",
+        "types": [
+            "water"
+        ],
+        "abilities": [
+            "Torrent",
+            "Rain Dish"
+        ],
+        "stats": {
+            "hp": 79,
+            "atk": 83,
+            "def": 100,
+            "spa": 85,
+            "spd": 105,
+            "spe": 78
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/009.png"
+    },
+    {
+        "name": "Mega Blastoise",
+        "dex_no": "#009",
+        "types": [
+            "water"
+        ],
+        "abilities": [
+            "Mega Launcher"
+        ],
+        "stats": {
+            "hp": 79,
+            "atk": 103,
+            "def": 120,
+            "spa": 135,
+            "spd": 115,
+            "spe": 78
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/009-m.png"
+    },
+    {
+        "name": "Charizard",
+        "dex_no": "#006",
+        "types": [
+            "fire",
+            "flying"
+        ],
+        "abilities": [
+            "Blaze",
+            "Solar Power"
+        ],
+        "stats": {
+            "hp": 78,
+            "atk": 84,
+            "def": 78,
+            "spa": 109,
+            "spd": 85,
+            "spe": 100
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/006.png"
+    },
+    {
+        "name": "Typhlosion",
+        "dex_no": "#157",
+        "types": [
+            "fire"
+        ],
+        "abilities": [
+            "Blaze",
+            "Flash Fire"
+        ],
+        "stats": {
+            "hp": 78,
+            "atk": 84,
+            "def": 78,
+            "spa": 109,
+            "spd": 85,
+            "spe": 100
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/157.png"
+    },
+    {
+        "name": "Talonflame",
+        "dex_no": "#663",
+        "types": [
+            "fire",
+            "flying"
+        ],
+        "abilities": [
+            "Flame Body",
+            "Gale Wings"
+        ],
+        "stats": {
+            "hp": 78,
+            "atk": 81,
+            "def": 71,
+            "spa": 74,
+            "spd": 69,
+            "spe": 126
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/663.png"
+    },
+    {
+        "name": "Florges",
+        "dex_no": "#671",
+        "types": [
+            "fairy"
+        ],
+        "abilities": [
+            "Flower Veil",
+            "Symbiosis"
+        ],
+        "stats": {
+            "hp": 78,
+            "atk": 65,
+            "def": 68,
+            "spa": 112,
+            "spd": 154,
+            "spe": 75
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/671.png"
+    },
+    {
+        "name": "Hawlucha",
+        "dex_no": "#701",
+        "types": [
+            "fighting",
+            "flying"
+        ],
+        "abilities": [
+            "Limber",
+            "Unburden",
+            "Mold Breaker"
+        ],
+        "stats": {
+            "hp": 78,
+            "atk": 92,
+            "def": 75,
+            "spa": 74,
+            "spd": 63,
+            "spe": 118
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/701.png"
+    },
+    {
+        "name": "Decidueye",
+        "dex_no": "#724",
+        "types": [
+            "grass",
+            "ghost"
+        ],
+        "abilities": [
+            "Overgrow",
+            "Long Reach"
+        ],
+        "stats": {
+            "hp": 78,
+            "atk": 107,
+            "def": 75,
+            "spa": 100,
+            "spd": 100,
+            "spe": 70
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/724.png"
+    },
+    {
+        "name": "Drampa",
+        "dex_no": "#780",
+        "types": [
+            "normal",
+            "dragon"
+        ],
+        "abilities": [
+            "Berserk",
+            "Sap Sipper",
+            "Cloud Nine"
+        ],
+        "stats": {
+            "hp": 78,
+            "atk": 60,
+            "def": 85,
+            "spa": 135,
+            "spd": 91,
+            "spe": 36
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/780.png"
+    },
+    {
+        "name": "Mega Charizard X",
+        "dex_no": "#006",
+        "types": [
+            "fire",
+            "dragon"
+        ],
+        "abilities": [
+            "Tough Claws"
+        ],
+        "stats": {
+            "hp": 78,
+            "atk": 130,
+            "def": 111,
+            "spa": 130,
+            "spd": 85,
+            "spe": 100
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/006-mx.png"
+    },
+    {
+        "name": "Mega Charizard Y",
+        "dex_no": "#006",
+        "types": [
+            "fire",
+            "flying"
+        ],
+        "abilities": [
+            "Drought"
+        ],
+        "stats": {
+            "hp": 78,
+            "atk": 104,
+            "def": 78,
+            "spa": 159,
+            "spd": 115,
+            "spe": 100
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/006-my.png"
+    },
+    {
+        "name": "Mega Hawlucha",
+        "dex_no": "#701",
+        "types": [
+            "fighting",
+            "flying"
+        ],
+        "abilities": [
+            "No Guard"
+        ],
+        "stats": {
+            "hp": 78,
+            "atk": 137,
+            "def": 100,
+            "spa": 74,
+            "spd": 93,
+            "spe": 118
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/701-m.png"
+    },
+    {
+        "name": "Mega Drampa",
+        "dex_no": "#780",
+        "types": [
+            "normal",
+            "dragon"
+        ],
+        "abilities": [
+            "Berserk"
+        ],
+        "stats": {
+            "hp": 78,
+            "atk": 85,
+            "def": 110,
+            "spa": 160,
+            "spd": 116,
+            "spe": 36
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/780-m.png"
+    },
+    {
+        "name": "Infernape",
+        "dex_no": "#392",
+        "types": [
+            "fire",
+            "fighting"
+        ],
+        "abilities": [
+            "Blaze",
+            "Iron Fist"
+        ],
+        "stats": {
+            "hp": 76,
+            "atk": 104,
+            "def": 71,
+            "spa": 104,
+            "spd": 71,
+            "spe": 108
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/392.png"
+    },
+    {
+        "name": "Meowscarada",
+        "dex_no": "#908",
+        "types": [
+            "grass",
+            "dark"
+        ],
+        "abilities": [
+            "Overgrow",
+            "Protean"
+        ],
+        "stats": {
+            "hp": 76,
+            "atk": 110,
+            "def": 70,
+            "spa": 81,
+            "spd": 70,
+            "spe": 123
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/908.png"
+    },
+    {
+        "name": "Tauros",
+        "dex_no": "#128",
+        "types": [
+            "normal"
+        ],
+        "abilities": [
+            "Intimidate",
+            "Anger Point",
+            "Sheer Force"
+        ],
+        "stats": {
+            "hp": 75,
+            "atk": 100,
+            "def": 95,
+            "spa": 40,
+            "spd": 70,
+            "spe": 110
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/128.png"
+    },
+    {
+        "name": "Forretress",
+        "dex_no": "#205",
+        "types": [
+            "bug",
+            "steel"
+        ],
+        "abilities": [
+            "Sturdy",
+            "Overcoat"
+        ],
+        "stats": {
+            "hp": 75,
+            "atk": 90,
+            "def": 140,
+            "spa": 60,
+            "spd": 60,
+            "spe": 40
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/205.png"
+    },
+    {
+        "name": "Steelix",
+        "dex_no": "#208",
+        "types": [
+            "steel",
+            "ground"
+        ],
+        "abilities": [
+            "Rock Head",
+            "Sturdy",
+            "Sheer Force"
+        ],
+        "stats": {
+            "hp": 75,
+            "atk": 85,
+            "def": 200,
+            "spa": 55,
+            "spd": 65,
+            "spe": 30
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/208.png"
+    },
+    {
+        "name": "Houndoom",
+        "dex_no": "#229",
+        "types": [
+            "dark",
+            "fire"
+        ],
+        "abilities": [
+            "Early Bird",
+            "Flash Fire",
+            "Unnerve"
+        ],
+        "stats": {
+            "hp": 75,
+            "atk": 90,
+            "def": 50,
+            "spa": 110,
+            "spd": 80,
+            "spe": 95
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/229.png"
+    },
+    {
+        "name": "Altaria",
+        "dex_no": "#334",
+        "types": [
+            "dragon",
+            "flying"
+        ],
+        "abilities": [
+            "Natural Cure",
+            "Cloud Nine"
+        ],
+        "stats": {
+            "hp": 75,
+            "atk": 70,
+            "def": 90,
+            "spa": 70,
+            "spd": 105,
+            "spe": 80
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/334.png"
+    },
+    {
+        "name": "Chimecho",
+        "dex_no": "#358",
+        "types": [
+            "psychic"
+        ],
+        "abilities": [
+            "Levitate"
+        ],
+        "stats": {
+            "hp": 75,
+            "atk": 50,
+            "def": 80,
+            "spa": 95,
+            "spd": 90,
+            "spe": 65
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/358.png"
+    },
+    {
+        "name": "Gliscor",
+        "dex_no": "#472",
+        "types": [
+            "ground",
+            "flying"
+        ],
+        "abilities": [
+            "Hyper Cutter",
+            "Sand Veil",
+            "Poison Heal"
+        ],
+        "stats": {
+            "hp": 75,
+            "atk": 95,
+            "def": 125,
+            "spa": 45,
+            "spd": 75,
+            "spe": 95
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/472.png"
+    },
+    {
+        "name": "Serperior",
+        "dex_no": "#497",
+        "types": [
+            "grass"
+        ],
+        "abilities": [
+            "Overgrow",
+            "Contrary"
+        ],
+        "stats": {
+            "hp": 75,
+            "atk": 75,
+            "def": 95,
+            "spa": 75,
+            "spd": 95,
+            "spe": 113
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/497.png"
+    },
+    {
+        "name": "Simisage",
+        "dex_no": "#512",
+        "types": [
+            "grass"
+        ],
+        "abilities": [
+            "Gluttony",
+            "Overgrow"
+        ],
+        "stats": {
+            "hp": 75,
+            "atk": 98,
+            "def": 63,
+            "spa": 98,
+            "spd": 63,
+            "spe": 101
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/512.png"
+    },
+    {
+        "name": "Simisear",
+        "dex_no": "#514",
+        "types": [
+            "fire"
+        ],
+        "abilities": [
+            "Gluttony",
+            "Blaze"
+        ],
+        "stats": {
+            "hp": 75,
+            "atk": 98,
+            "def": 63,
+            "spa": 98,
+            "spd": 63,
+            "spe": 101
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/514.png"
+    },
+    {
+        "name": "Simipour",
+        "dex_no": "#516",
+        "types": [
+            "water"
+        ],
+        "abilities": [
+            "Gluttony",
+            "Torrent"
+        ],
+        "stats": {
+            "hp": 75,
+            "atk": 98,
+            "def": 63,
+            "spa": 98,
+            "spd": 63,
+            "spe": 101
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/516.png"
+    },
+    {
+        "name": "Delphox",
+        "dex_no": "#655",
+        "types": [
+            "fire",
+            "psychic"
+        ],
+        "abilities": [
+            "Blaze",
+            "Magician"
+        ],
+        "stats": {
+            "hp": 75,
+            "atk": 69,
+            "def": 72,
+            "spa": 114,
+            "spd": 100,
+            "spe": 104
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/655.png"
+    },
+    {
+        "name": "Furfrou",
+        "dex_no": "#676",
+        "types": [
+            "normal"
+        ],
+        "abilities": [
+            "Fur Coat"
+        ],
+        "stats": {
+            "hp": 75,
+            "atk": 80,
+            "def": 60,
+            "spa": 65,
+            "spd": 90,
+            "spe": 102
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/676.png"
+    },
+    {
+        "name": "Lycanroc",
+        "dex_no": "#745",
+        "types": [
+            "rock"
+        ],
+        "abilities": [
+            "Keen Eye",
+            "Sand Rush",
+            "Steadfast"
+        ],
+        "stats": {
+            "hp": 75,
+            "atk": 115,
+            "def": 65,
+            "spa": 55,
+            "spd": 65,
+            "spe": 112
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/745.png"
+    },
+    {
+        "name": "Kommo-o",
+        "dex_no": "#784",
+        "types": [
+            "dragon",
+            "fighting"
+        ],
+        "abilities": [
+            "Bulletproof",
+            "Soundproof",
+            "Overcoat"
+        ],
+        "stats": {
+            "hp": 75,
+            "atk": 110,
+            "def": 125,
+            "spa": 100,
+            "spd": 105,
+            "spe": 85
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/784.png"
+    },
+    {
+        "name": "Ceruledge",
+        "dex_no": "#937",
+        "types": [
+            "fire",
+            "ghost"
+        ],
+        "abilities": [
+            "Flash Fire",
+            "Weak Armor"
+        ],
+        "stats": {
+            "hp": 75,
+            "atk": 125,
+            "def": 80,
+            "spa": 60,
+            "spd": 100,
+            "spe": 85
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/937.png"
+    },
+    {
+        "name": "Paldean Tauros (Combat)",
+        "dex_no": "#128",
+        "types": [
+            "fighting"
+        ],
+        "abilities": [
+            "Intimidate",
+            "Anger Point",
+            "Cud Chew"
+        ],
+        "stats": {
+            "hp": 75,
+            "atk": 110,
+            "def": 105,
+            "spa": 30,
+            "spd": 70,
+            "spe": 100
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/128-p.png"
+    },
+    {
+        "name": "Paldean Tauros (Blaze)",
+        "dex_no": "#128",
+        "types": [
+            "fighting",
+            "fire"
+        ],
+        "abilities": [
+            "Intimidate",
+            "Anger Point",
+            "Cud Chew"
+        ],
+        "stats": {
+            "hp": 75,
+            "atk": 110,
+            "def": 105,
+            "spa": 30,
+            "spd": 70,
+            "spe": 100
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/128-b.png"
+    },
+    {
+        "name": "Paldean Tauros (Aqua)",
+        "dex_no": "#128",
+        "types": [
+            "fighting",
+            "water"
+        ],
+        "abilities": [
+            "Intimidate",
+            "Anger Point",
+            "Cud Chew"
+        ],
+        "stats": {
+            "hp": 75,
+            "atk": 110,
+            "def": 105,
+            "spa": 30,
+            "spd": 70,
+            "spe": 100
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/128-a.png"
+    },
+    {
+        "name": "Mega Steelix",
+        "dex_no": "#208",
+        "types": [
+            "steel",
+            "ground"
+        ],
+        "abilities": [
+            "Sand Force"
+        ],
+        "stats": {
+            "hp": 75,
+            "atk": 125,
+            "def": 230,
+            "spa": 55,
+            "spd": 95,
+            "spe": 30
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/208-m.png"
+    },
+    {
+        "name": "Mega Houndoom",
+        "dex_no": "#229",
+        "types": [
+            "dark",
+            "fire"
+        ],
+        "abilities": [
+            "Solar Power"
+        ],
+        "stats": {
+            "hp": 75,
+            "atk": 90,
+            "def": 90,
+            "spa": 140,
+            "spd": 90,
+            "spe": 115
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/229-m.png"
+    },
+    {
+        "name": "Mega Altaria",
+        "dex_no": "#334",
+        "types": [
+            "dragon",
+            "fairy"
+        ],
+        "abilities": [
+            "Pixilate"
+        ],
+        "stats": {
+            "hp": 75,
+            "atk": 110,
+            "def": 110,
+            "spa": 110,
+            "spd": 105,
+            "spe": 80
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/334-m.png"
+    },
+    {
+        "name": "Mega Chimecho",
+        "dex_no": "#358",
+        "types": [
+            "psychic",
+            "steel"
+        ],
+        "abilities": [
+            "Levitate"
+        ],
+        "stats": {
+            "hp": 75,
+            "atk": 50,
+            "def": 110,
+            "spa": 135,
+            "spd": 120,
+            "spe": 65
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/358-m.png"
+    },
+    {
+        "name": "Mega Delphox",
+        "dex_no": "#655",
+        "types": [
+            "fire",
+            "psychic"
+        ],
+        "abilities": [
+            "Levitate"
+        ],
+        "stats": {
+            "hp": 75,
+            "atk": 69,
+            "def": 72,
+            "spa": 159,
+            "spd": 125,
+            "spe": 134
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/655-m.png"
+    },
+    {
+        "name": "Gourgeist",
+        "dex_no": "#711",
+        "types": [
+            "ghost",
+            "grass"
+        ],
+        "abilities": [
+            "Pickup",
+            "Frisk",
+            "Insomnia"
+        ],
+        "stats": {
+            "hp": 75,
+            "atk": 95,
+            "def": 122,
+            "spa": 58,
+            "spd": 75,
+            "spe": 69
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/711-l.png"
+    },
+    {
+        "name": "Lycanroc",
+        "dex_no": "#745",
+        "types": [
+            "rock"
+        ],
+        "abilities": [
+            "Tough Claws"
+        ],
+        "stats": {
+            "hp": 75,
+            "atk": 117,
+            "def": 65,
+            "spa": 55,
+            "spd": 65,
+            "spe": 110
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/745-d.png"
+    },
+    {
+        "name": "Vileplume",
+        "dex_no": "#045",
+        "types": [
+            "grass",
+            "poison"
+        ],
+        "abilities": [
+            "Chlorophyll",
+            "Effect Spore"
+        ],
+        "stats": {
+            "hp": 75,
+            "atk": 80,
+            "def": 85,
+            "spa": 110,
+            "spd": 90,
+            "spe": 50
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/045.png"
+    },
+    {
+        "name": "Meowstic",
+        "dex_no": "#678",
+        "types": [
+            "psychic"
+        ],
+        "abilities": [
+            "Keen Eye",
+            "Infiltrator",
+            "Prankster"
+        ],
+        "stats": {
+            "hp": 74,
+            "atk": 48,
+            "def": 76,
+            "spa": 83,
+            "spd": 81,
+            "spe": 104
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/678.png"
+    },
+    {
+        "name": "Maushold",
+        "dex_no": "#925",
+        "types": [
+            "normal"
+        ],
+        "abilities": [
+            "Friend Guard",
+            "Cheek Pouch",
+            "Technician"
+        ],
+        "stats": {
+            "hp": 74,
+            "atk": 75,
+            "def": 70,
+            "spa": 65,
+            "spd": 75,
+            "spe": 111
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/925.png"
+    },
+    {
+        "name": "Floette",
+        "dex_no": "#670",
+        "types": [
+            "fairy"
+        ],
+        "abilities": [
+            "Flower Veil",
+            "Symbiosis"
+        ],
+        "stats": {
+            "hp": 74,
+            "atk": 65,
+            "def": 67,
+            "spa": 125,
+            "spd": 128,
+            "spe": 92
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/670-e.png"
+    },
+    {
+        "name": "Mega Floette",
+        "dex_no": "#670",
+        "types": [
+            "fairy"
+        ],
+        "abilities": [
+            "Fairy Aura"
+        ],
+        "stats": {
+            "hp": 74,
+            "atk": 85,
+            "def": 87,
+            "spa": 155,
+            "spd": 148,
+            "spe": 102
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/670-m.png"
+    },
+    {
+        "name": "Meowstic (Female)",
+        "dex_no": "#678",
+        "types": [
+            "psychic"
+        ],
+        "abilities": [
+            "Keen Eye",
+            "Infiltrator",
+            "Competitive"
+        ],
+        "stats": {
+            "hp": 74,
+            "atk": 48,
+            "def": 76,
+            "spa": 83,
+            "spd": 81,
+            "spe": 104
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/678-f.png"
+    },
+    {
+        "name": "Mega Meowstic",
+        "dex_no": "#678",
+        "types": [
+            "psychic"
+        ],
+        "abilities": [
+            "Trace"
+        ],
+        "stats": {
+            "hp": 74,
+            "atk": 48,
+            "def": 76,
+            "spa": 143,
+            "spd": 101,
+            "spe": 124
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/678-m.png"
+    },
+    {
+        "name": "Maushold (Female)",
+        "dex_no": "#925",
+        "types": [
+            "normal"
+        ],
+        "abilities": [
+            "Friend Guard",
+            "Cheek Pouch",
+            "Technician"
+        ],
+        "stats": {
+            "hp": 74,
+            "atk": 75,
+            "def": 70,
+            "spa": 65,
+            "spd": 75,
+            "spe": 111
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/925-f.png"
+    },
+    {
+        "name": "Ninetales",
+        "dex_no": "#038",
+        "types": [
+            "fire"
+        ],
+        "abilities": [
+            "Flash Fire",
+            "Drought"
+        ],
+        "stats": {
+            "hp": 73,
+            "atk": 76,
+            "def": 75,
+            "spa": 81,
+            "spd": 100,
+            "spe": 100
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/038.png"
+    },
+    {
+        "name": "Alolan Ninetales",
+        "dex_no": "#038",
+        "types": [
+            "ice",
+            "fairy"
+        ],
+        "abilities": [
+            "Snow Cloak",
+            "Snow Warning"
+        ],
+        "stats": {
+            "hp": 73,
+            "atk": 67,
+            "def": 75,
+            "spa": 81,
+            "spd": 100,
+            "spe": 109
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/038-a.png"
+    },
+    {
+        "name": "Hisuian Typhlosion",
+        "dex_no": "#157",
+        "types": [
+            "fire",
+            "ghost"
+        ],
+        "abilities": [
+            "Blaze",
+            "Frisk"
+        ],
+        "stats": {
+            "hp": 73,
+            "atk": 84,
+            "def": 78,
+            "spa": 119,
+            "spd": 85,
+            "spe": 95
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/157-h.png"
+    },
+    {
+        "name": "Greninja",
+        "dex_no": "#658",
+        "types": [
+            "water",
+            "dark"
+        ],
+        "abilities": [
+            "Torrent",
+            "Protean"
+        ],
+        "stats": {
+            "hp": 72,
+            "atk": 95,
+            "def": 67,
+            "spa": 103,
+            "spd": 71,
+            "spe": 122
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/658.png"
+    },
+    {
+        "name": "Tsareena",
+        "dex_no": "#763",
+        "types": [
+            "grass"
+        ],
+        "abilities": [
+            "Leaf Guard",
+            "Queenly Majesty",
+            "Sweet Veil"
+        ],
+        "stats": {
+            "hp": 72,
+            "atk": 120,
+            "def": 98,
+            "spa": 50,
+            "spd": 98,
+            "spe": 72
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/763.png"
+    },
+    {
+        "name": "Sandaconda",
+        "dex_no": "#844",
+        "types": [
+            "ground"
+        ],
+        "abilities": [
+            "Sand Spit",
+            "Shed Skin",
+            "Sand Veil"
+        ],
+        "stats": {
+            "hp": 72,
+            "atk": 107,
+            "def": 125,
+            "spa": 65,
+            "spd": 70,
+            "spe": 71
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/844.png"
+    },
+    {
+        "name": "Mega Greninja",
+        "dex_no": "#658",
+        "types": [
+            "water",
+            "dark"
+        ],
+        "abilities": [
+            "Protean"
+        ],
+        "stats": {
+            "hp": 72,
+            "atk": 125,
+            "def": 77,
+            "spa": 133,
+            "spd": 81,
+            "spe": 142
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/658-m.png"
+    },
+    {
+        "name": "Barbaracle",
+        "dex_no": "#689",
+        "types": [
+            "rock",
+            "water"
+        ],
+        "abilities": [
+            "Tough Claws",
+            "Sniper",
+            "Pickpocket"
+        ],
+        "stats": {
+            "hp": 72,
+            "atk": 105,
+            "def": 115,
+            "spa": 54,
+            "spd": 86,
+            "spe": 68
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/689.png"
+    },
+    {
+        "name": "Houndstone",
+        "dex_no": "#972",
+        "types": [
+            "ghost"
+        ],
+        "abilities": [
+            "Sand Rush",
+            "Fluffy"
+        ],
+        "stats": {
+            "hp": 72,
+            "atk": 101,
+            "def": 100,
+            "spa": 50,
+            "spd": 97,
+            "spe": 68
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/972.png"
+    },
+    {
+        "name": "Mega Barbaracle",
+        "dex_no": "#689",
+        "types": [
+            "rock",
+            "fighting"
+        ],
+        "abilities": [
+            "Tough Claws"
+        ],
+        "stats": {
+            "hp": 72,
+            "atk": 140,
+            "def": 130,
+            "spa": 64,
+            "spd": 106,
+            "spe": 88
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/689-m.png"
+    },
+    {
+        "name": "Vanilluxe",
+        "dex_no": "#584",
+        "types": [
+            "ice"
+        ],
+        "abilities": [
+            "Ice Body",
+            "Snow Warning",
+            "Weak Armor"
+        ],
+        "stats": {
+            "hp": 71,
+            "atk": 95,
+            "def": 85,
+            "spa": 110,
+            "spd": 95,
+            "spe": 79
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/584.png"
+    },
+    {
+        "name": "Clawitzer",
+        "dex_no": "#693",
+        "types": [
+            "water"
+        ],
+        "abilities": [
+            "Mega Launcher"
+        ],
+        "stats": {
+            "hp": 71,
+            "atk": 73,
+            "def": 88,
+            "spa": 120,
+            "spd": 89,
+            "spe": 59
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/693.png"
+    },
+    {
+        "name": "Sinistcha",
+        "dex_no": "#1013",
+        "types": [
+            "grass",
+            "ghost"
+        ],
+        "abilities": [
+            "Hospitality",
+            "Heatproof"
+        ],
+        "stats": {
+            "hp": 71,
+            "atk": 60,
+            "def": 106,
+            "spa": 121,
+            "spd": 80,
+            "spe": 70
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/1013.png"
+    },
+    {
+        "name": "Ariados",
+        "dex_no": "#168",
+        "types": [
+            "bug",
+            "poison"
+        ],
+        "abilities": [
+            "Swarm",
+            "Insomnia",
+            "Sniper"
+        ],
+        "stats": {
+            "hp": 70,
+            "atk": 90,
+            "def": 70,
+            "spa": 60,
+            "spd": 70,
+            "spe": 40
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/168.png"
+    },
+    {
+        "name": "Scizor",
+        "dex_no": "#212",
+        "types": [
+            "bug",
+            "steel"
+        ],
+        "abilities": [
+            "Swarm",
+            "Technician",
+            "Light Metal"
+        ],
+        "stats": {
+            "hp": 70,
+            "atk": 130,
+            "def": 100,
+            "spa": 55,
+            "spd": 80,
+            "spe": 65
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/212.png"
+    },
+    {
+        "name": "Aggron",
+        "dex_no": "#306",
+        "types": [
+            "steel",
+            "rock"
+        ],
+        "abilities": [
+            "Sturdy",
+            "Rock Head",
+            "Heavy Metal"
+        ],
+        "stats": {
+            "hp": 70,
+            "atk": 110,
+            "def": 180,
+            "spa": 60,
+            "spd": 60,
+            "spe": 50
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/306.png"
+    },
+    {
+        "name": "Manectric",
+        "dex_no": "#310",
+        "types": [
+            "electric"
+        ],
+        "abilities": [
+            "Static",
+            "Lightning Rod",
+            "Minus"
+        ],
+        "stats": {
+            "hp": 70,
+            "atk": 75,
+            "def": 60,
+            "spa": 105,
+            "spd": 60,
+            "spe": 105
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/310.png"
+    },
+    {
+        "name": "Sharpedo",
+        "dex_no": "#319",
+        "types": [
+            "water",
+            "dark"
+        ],
+        "abilities": [
+            "Rough Skin",
+            "Speed Boost"
+        ],
+        "stats": {
+            "hp": 70,
+            "atk": 120,
+            "def": 40,
+            "spa": 95,
+            "spd": 40,
+            "spe": 95
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/319.png"
+    },
+    {
+        "name": "Camerupt",
+        "dex_no": "#323",
+        "types": [
+            "fire",
+            "ground"
+        ],
+        "abilities": [
+            "Magma Armor",
+            "Solid Rock",
+            "Anger Point"
+        ],
+        "stats": {
+            "hp": 70,
+            "atk": 100,
+            "def": 70,
+            "spa": 105,
+            "spd": 75,
+            "spe": 40
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/323.png"
+    },
+    {
+        "name": "Torkoal",
+        "dex_no": "#324",
+        "types": [
+            "fire"
+        ],
+        "abilities": [
+            "White Smoke",
+            "Drought",
+            "Shell Armor"
+        ],
+        "stats": {
+            "hp": 70,
+            "atk": 85,
+            "def": 140,
+            "spa": 85,
+            "spd": 70,
+            "spe": 20
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/324.png"
+    },
+    {
+        "name": "Castform",
+        "dex_no": "#351",
+        "types": [
+            "normal"
+        ],
+        "abilities": [
+            "Forecast"
+        ],
+        "stats": {
+            "hp": 70,
+            "atk": 70,
+            "def": 70,
+            "spa": 70,
+            "spd": 70,
+            "spe": 70
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/351.png"
+    },
+    {
+        "name": "Lucario",
+        "dex_no": "#448",
+        "types": [
+            "fighting",
+            "steel"
+        ],
+        "abilities": [
+            "Steadfast",
+            "Inner Focus",
+            "Justified"
+        ],
+        "stats": {
+            "hp": 70,
+            "atk": 110,
+            "def": 70,
+            "spa": 115,
+            "spd": 70,
+            "spe": 90
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/448.png"
+    },
+    {
+        "name": "Weavile",
+        "dex_no": "#461",
+        "types": [
+            "dark",
+            "ice"
+        ],
+        "abilities": [
+            "Pressure",
+            "Pickpocket"
+        ],
+        "stats": {
+            "hp": 70,
+            "atk": 120,
+            "def": 65,
+            "spa": 45,
+            "spd": 85,
+            "spe": 125
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/461.png"
+    },
+    {
+        "name": "Froslass",
+        "dex_no": "#478",
+        "types": [
+            "ice",
+            "ghost"
+        ],
+        "abilities": [
+            "Snow Cloak",
+            "Cursed Body"
+        ],
+        "stats": {
+            "hp": 70,
+            "atk": 80,
+            "def": 70,
+            "spa": 80,
+            "spd": 70,
+            "spe": 110
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/478.png"
+    },
+    {
+        "name": "Flapple",
+        "dex_no": "#841",
+        "types": [
+            "grass",
+            "dragon"
+        ],
+        "abilities": [
+            "Ripen",
+            "Gluttony",
+            "Hustle"
+        ],
+        "stats": {
+            "hp": 70,
+            "atk": 110,
+            "def": 80,
+            "spa": 95,
+            "spd": 60,
+            "spe": 70
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/841.png"
+    },
+    {
+        "name": "Kleavor",
+        "dex_no": "#900",
+        "types": [
+            "bug",
+            "rock"
+        ],
+        "abilities": [
+            "Swarm",
+            "Sheer Force",
+            "Sharpness"
+        ],
+        "stats": {
+            "hp": 70,
+            "atk": 135,
+            "def": 95,
+            "spa": 45,
+            "spd": 70,
+            "spe": 85
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/900.png"
+    },
+    {
+        "name": "Orthworm",
+        "dex_no": "#968",
+        "types": [
+            "steel"
+        ],
+        "abilities": [
+            "Earth Eater",
+            "Sand Veil"
+        ],
+        "stats": {
+            "hp": 70,
+            "atk": 85,
+            "def": 145,
+            "spa": 60,
+            "spd": 55,
+            "spe": 65
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/968.png"
+    },
+    {
+        "name": "Mega Scizor",
+        "dex_no": "#212",
+        "types": [
+            "bug",
+            "steel"
+        ],
+        "abilities": [
+            "Technician"
+        ],
+        "stats": {
+            "hp": 70,
+            "atk": 150,
+            "def": 140,
+            "spa": 65,
+            "spd": 100,
+            "spe": 75
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/212-m.png"
+    },
+    {
+        "name": "Mega Aggron",
+        "dex_no": "#306",
+        "types": [
+            "steel"
+        ],
+        "abilities": [
+            "Filter"
+        ],
+        "stats": {
+            "hp": 70,
+            "atk": 140,
+            "def": 230,
+            "spa": 60,
+            "spd": 80,
+            "spe": 50
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/306-m.png"
+    },
+    {
+        "name": "Mega Manectric",
+        "dex_no": "#310",
+        "types": [
+            "electric"
+        ],
+        "abilities": [
+            "Intimidate"
+        ],
+        "stats": {
+            "hp": 70,
+            "atk": 75,
+            "def": 80,
+            "spa": 135,
+            "spd": 80,
+            "spe": 135
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/310-m.png"
+    },
+    {
+        "name": "Mega Sharpedo",
+        "dex_no": "#319",
+        "types": [
+            "water",
+            "dark"
+        ],
+        "abilities": [
+            "Strong Jaw"
+        ],
+        "stats": {
+            "hp": 70,
+            "atk": 140,
+            "def": 70,
+            "spa": 110,
+            "spd": 65,
+            "spe": 105
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/319-m.png"
+    },
+    {
+        "name": "Mega Camerupt",
+        "dex_no": "#323",
+        "types": [
+            "fire",
+            "ground"
+        ],
+        "abilities": [
+            "Sheer Force"
+        ],
+        "stats": {
+            "hp": 70,
+            "atk": 120,
+            "def": 100,
+            "spa": 145,
+            "spd": 105,
+            "spe": 20
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/323-m.png"
+    },
+    {
+        "name": "Mega Lucario",
+        "dex_no": "#448",
+        "types": [
+            "fighting",
+            "steel"
+        ],
+        "abilities": [
+            "Adaptability"
+        ],
+        "stats": {
+            "hp": 70,
+            "atk": 145,
+            "def": 88,
+            "spa": 140,
+            "spd": 70,
+            "spe": 112
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/448-m.png"
+    },
+    {
+        "name": "Mega Froslass",
+        "dex_no": "#478",
+        "types": [
+            "ice",
+            "ghost"
+        ],
+        "abilities": [
+            "Snow Warning"
+        ],
+        "stats": {
+            "hp": 70,
+            "atk": 80,
+            "def": 70,
+            "spa": 140,
+            "spd": 100,
+            "spe": 120
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/478-m.png"
+    },
+    {
+        "name": "Sceptile",
+        "dex_no": "#254",
+        "types": [
+            "grass"
+        ],
+        "abilities": [
+            "Overgrow",
+            "Unburden"
+        ],
+        "stats": {
+            "hp": 70,
+            "atk": 85,
+            "def": 65,
+            "spa": 105,
+            "spd": 85,
+            "spe": 120
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/254.png"
+    },
+    {
+        "name": "Mega Sceptile",
+        "dex_no": "#254",
+        "types": [
+            "grass",
+            "dragon"
+        ],
+        "abilities": [
+            "Lightning Rod"
+        ],
+        "stats": {
+            "hp": 70,
+            "atk": 110,
+            "def": 75,
+            "spa": 145,
+            "spd": 85,
+            "spe": 145
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/254-m.png"
+    },
+    {
+        "name": "Gardevoir",
+        "dex_no": "#282",
+        "types": [
+            "psychic",
+            "fairy"
+        ],
+        "abilities": [
+            "Synchronize",
+            "Trace",
+            "Telepathy"
+        ],
+        "stats": {
+            "hp": 68,
+            "atk": 65,
+            "def": 65,
+            "spa": 125,
+            "spd": 115,
+            "spe": 80
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/282.png"
+    },
+    {
+        "name": "Gallade",
+        "dex_no": "#475",
+        "types": [
+            "psychic",
+            "fighting"
+        ],
+        "abilities": [
+            "Steadfast",
+            "Sharpness",
+            "Justified"
+        ],
+        "stats": {
+            "hp": 68,
+            "atk": 125,
+            "def": 65,
+            "spa": 65,
+            "spd": 115,
+            "spe": 80
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/475.png"
+    },
+    {
+        "name": "Araquanid",
+        "dex_no": "#752",
+        "types": [
+            "water",
+            "bug"
+        ],
+        "abilities": [
+            "Water Bubble",
+            "Water Absorb"
+        ],
+        "stats": {
+            "hp": 68,
+            "atk": 70,
+            "def": 92,
+            "spa": 50,
+            "spd": 132,
+            "spe": 42
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/752.png"
+    },
+    {
+        "name": "Salazzle",
+        "dex_no": "#758",
+        "types": [
+            "poison",
+            "fire"
+        ],
+        "abilities": [
+            "Corrosion",
+            "Oblivious"
+        ],
+        "stats": {
+            "hp": 68,
+            "atk": 64,
+            "def": 60,
+            "spa": 111,
+            "spd": 60,
+            "spe": 117
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/758.png"
+    },
+    {
+        "name": "Mega Gardevoir",
+        "dex_no": "#282",
+        "types": [
+            "psychic",
+            "fairy"
+        ],
+        "abilities": [
+            "Pixilate"
+        ],
+        "stats": {
+            "hp": 68,
+            "atk": 85,
+            "def": 65,
+            "spa": 165,
+            "spd": 135,
+            "spe": 100
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/282-m.png"
+    },
+    {
+        "name": "Mega Gallade",
+        "dex_no": "#475",
+        "types": [
+            "psychic",
+            "fighting"
+        ],
+        "abilities": [
+            "Inner Focus"
+        ],
+        "stats": {
+            "hp": 68,
+            "atk": 165,
+            "def": 95,
+            "spa": 65,
+            "spd": 115,
+            "spe": 110
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/475-m.png"
+    },
+    {
+        "name": "Dedenne",
+        "dex_no": "#702",
+        "types": [
+            "electric",
+            "fairy"
+        ],
+        "abilities": [
+            "Cheek Pouch",
+            "Pickup",
+            "Plus"
+        ],
+        "stats": {
+            "hp": 67,
+            "atk": 58,
+            "def": 57,
+            "spa": 81,
+            "spd": 67,
+            "spe": 101
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/702.png"
+    },
+    {
+        "name": "Beedrill",
+        "dex_no": "#015",
+        "types": [
+            "bug",
+            "poison"
+        ],
+        "abilities": [
+            "Swarm",
+            "Sniper"
+        ],
+        "stats": {
+            "hp": 65,
+            "atk": 90,
+            "def": 40,
+            "spa": 45,
+            "spd": 80,
+            "spe": 75
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/015.png"
+    },
+    {
+        "name": "Pinsir",
+        "dex_no": "#127",
+        "types": [
+            "bug"
+        ],
+        "abilities": [
+            "Hyper Cutter",
+            "Mold Breaker",
+            "Moxie"
+        ],
+        "stats": {
+            "hp": 65,
+            "atk": 125,
+            "def": 100,
+            "spa": 55,
+            "spd": 70,
+            "spe": 85
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/127.png"
+    },
+    {
+        "name": "Jolteon",
+        "dex_no": "#135",
+        "types": [
+            "electric"
+        ],
+        "abilities": [
+            "Volt Absorb",
+            "Quick Feet"
+        ],
+        "stats": {
+            "hp": 65,
+            "atk": 65,
+            "def": 60,
+            "spa": 110,
+            "spd": 95,
+            "spe": 130
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/135.png"
+    },
+    {
+        "name": "Flareon",
+        "dex_no": "#136",
+        "types": [
+            "fire"
+        ],
+        "abilities": [
+            "Flash Fire",
+            "Guts"
+        ],
+        "stats": {
+            "hp": 65,
+            "atk": 130,
+            "def": 60,
+            "spa": 95,
+            "spd": 110,
+            "spe": 65
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/136.png"
+    },
+    {
+        "name": "Espeon",
+        "dex_no": "#196",
+        "types": [
+            "psychic"
+        ],
+        "abilities": [
+            "Synchronize",
+            "Magic Bounce"
+        ],
+        "stats": {
+            "hp": 65,
+            "atk": 65,
+            "def": 60,
+            "spa": 130,
+            "spd": 95,
+            "spe": 110
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/196.png"
+    },
+    {
+        "name": "Skarmory",
+        "dex_no": "#227",
+        "types": [
+            "steel",
+            "flying"
+        ],
+        "abilities": [
+            "Keen Eye",
+            "Sturdy",
+            "Weak Armor"
+        ],
+        "stats": {
+            "hp": 65,
+            "atk": 80,
+            "def": 140,
+            "spa": 40,
+            "spd": 70,
+            "spe": 70
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/227.png"
+    },
+    {
+        "name": "Absol",
+        "dex_no": "#359",
+        "types": [
+            "dark"
+        ],
+        "abilities": [
+            "Pressure",
+            "Super Luck",
+            "Justified"
+        ],
+        "stats": {
+            "hp": 65,
+            "atk": 130,
+            "def": 60,
+            "spa": 75,
+            "spd": 60,
+            "spe": 75
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/359.png"
+    },
+    {
+        "name": "Lopunny",
+        "dex_no": "#428",
+        "types": [
+            "normal"
+        ],
+        "abilities": [
+            "Cute Charm",
+            "Klutz",
+            "Limber"
+        ],
+        "stats": {
+            "hp": 65,
+            "atk": 76,
+            "def": 84,
+            "spa": 54,
+            "spd": 96,
+            "spe": 105
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/428.png"
+    },
+    {
+        "name": "Leafeon",
+        "dex_no": "#470",
+        "types": [
+            "grass"
+        ],
+        "abilities": [
+            "Leaf Guard",
+            "Chlorophyll"
+        ],
+        "stats": {
+            "hp": 65,
+            "atk": 110,
+            "def": 130,
+            "spa": 60,
+            "spd": 65,
+            "spe": 95
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/470.png"
+    },
+    {
+        "name": "Glaceon",
+        "dex_no": "#471",
+        "types": [
+            "ice"
+        ],
+        "abilities": [
+            "Snow Cloak",
+            "Ice Body"
+        ],
+        "stats": {
+            "hp": 65,
+            "atk": 60,
+            "def": 110,
+            "spa": 130,
+            "spd": 95,
+            "spe": 65
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/471.png"
+    },
+    {
+        "name": "Gourgeist",
+        "dex_no": "#711",
+        "types": [
+            "ghost",
+            "grass"
+        ],
+        "abilities": [
+            "Pickup",
+            "Frisk",
+            "Insomnia"
+        ],
+        "stats": {
+            "hp": 65,
+            "atk": 90,
+            "def": 122,
+            "spa": 58,
+            "spd": 75,
+            "spe": 84
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/711.png"
+    },
+    {
+        "name": "Alcremie",
+        "dex_no": "#869",
+        "types": [
+            "fairy"
+        ],
+        "abilities": [
+            "Sweet Veil",
+            "Aroma Veil"
+        ],
+        "stats": {
+            "hp": 65,
+            "atk": 60,
+            "def": 75,
+            "spa": 110,
+            "spd": 121,
+            "spe": 64
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/869.png"
+    },
+    {
+        "name": "Scovillain",
+        "dex_no": "#952",
+        "types": [
+            "grass",
+            "fire"
+        ],
+        "abilities": [
+            "Chlorophyll",
+            "Insomnia",
+            "Moody"
+        ],
+        "stats": {
+            "hp": 65,
+            "atk": 108,
+            "def": 65,
+            "spa": 108,
+            "spd": 65,
+            "spe": 75
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/952.png"
+    },
+    {
+        "name": "Mega Beedrill",
+        "dex_no": "#015",
+        "types": [
+            "bug",
+            "poison"
+        ],
+        "abilities": [
+            "Adaptability"
+        ],
+        "stats": {
+            "hp": 65,
+            "atk": 150,
+            "def": 40,
+            "spa": 15,
+            "spd": 80,
+            "spe": 145
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/015-m.png"
+    },
+    {
+        "name": "Mega Pinsir",
+        "dex_no": "#127",
+        "types": [
+            "bug",
+            "flying"
+        ],
+        "abilities": [
+            "Aerilate"
+        ],
+        "stats": {
+            "hp": 65,
+            "atk": 155,
+            "def": 120,
+            "spa": 65,
+            "spd": 90,
+            "spe": 105
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/127-m.png"
+    },
+    {
+        "name": "Mega Skarmory",
+        "dex_no": "#227",
+        "types": [
+            "steel",
+            "flying"
+        ],
+        "abilities": [
+            "Stalwart"
+        ],
+        "stats": {
+            "hp": 65,
+            "atk": 140,
+            "def": 110,
+            "spa": 40,
+            "spd": 100,
+            "spe": 110
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/227-m.png"
+    },
+    {
+        "name": "Mega Absol",
+        "dex_no": "#359",
+        "types": [
+            "dark"
+        ],
+        "abilities": [
+            "Magic Bounce"
+        ],
+        "stats": {
+            "hp": 65,
+            "atk": 150,
+            "def": 60,
+            "spa": 115,
+            "spd": 60,
+            "spe": 115
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/359-m.png"
+    },
+    {
+        "name": "Mega Lopunny",
+        "dex_no": "#428",
+        "types": [
+            "normal",
+            "fighting"
+        ],
+        "abilities": [
+            "Scrappy"
+        ],
+        "stats": {
+            "hp": 65,
+            "atk": 136,
+            "def": 94,
+            "spa": 54,
+            "spd": 96,
+            "spe": 135
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/428-m.png"
+    },
+    {
+        "name": "Mega Scovillain",
+        "dex_no": "#952",
+        "types": [
+            "grass",
+            "fire"
+        ],
+        "abilities": [
+            "Spicy Spray"
+        ],
+        "stats": {
+            "hp": 65,
+            "atk": 138,
+            "def": 85,
+            "spa": 138,
+            "spd": 85,
+            "spe": 75
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/952-m.png"
+    },
+    {
+        "name": "Qwilfish",
+        "dex_no": "#211",
+        "types": [
+            "water",
+            "poison"
+        ],
+        "abilities": [
+            "Poison Point",
+            "Swift Swim",
+            "Intimidate"
+        ],
+        "stats": {
+            "hp": 65,
+            "atk": 95,
+            "def": 85,
+            "spa": 55,
+            "spd": 55,
+            "spe": 85
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/211.png"
+    },
+    {
+        "name": "Scrafty",
+        "dex_no": "#560",
+        "types": [
+            "dark",
+            "fighting"
+        ],
+        "abilities": [
+            "Shed Skin",
+            "Moxie",
+            "Intimidate"
+        ],
+        "stats": {
+            "hp": 65,
+            "atk": 90,
+            "def": 115,
+            "spa": 45,
+            "spd": 115,
+            "spe": 58
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/560.png"
+    },
+    {
+        "name": "Dragalge",
+        "dex_no": "#691",
+        "types": [
+            "poison",
+            "dragon"
+        ],
+        "abilities": [
+            "Poison Point",
+            "Poison Touch",
+            "Adaptability"
+        ],
+        "stats": {
+            "hp": 65,
+            "atk": 75,
+            "def": 90,
+            "spa": 97,
+            "spd": 123,
+            "spe": 44
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/691.png"
+    },
+    {
+        "name": "Falinks",
+        "dex_no": "#870",
+        "types": [
+            "fighting"
+        ],
+        "abilities": [
+            "Battle Armor",
+            "Defiant"
+        ],
+        "stats": {
+            "hp": 65,
+            "atk": 100,
+            "def": 100,
+            "spa": 70,
+            "spd": 60,
+            "spe": 75
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/870.png"
+    },
+    {
+        "name": "Mega Scrafty",
+        "dex_no": "#560",
+        "types": [
+            "dark",
+            "fighting"
+        ],
+        "abilities": [
+            "Intimidate"
+        ],
+        "stats": {
+            "hp": 65,
+            "atk": 130,
+            "def": 135,
+            "spa": 55,
+            "spd": 135,
+            "spe": 68
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/560-m.png"
+    },
+    {
+        "name": "Mega Dragalge",
+        "dex_no": "#691",
+        "types": [
+            "poison",
+            "dragon"
+        ],
+        "abilities": [
+            "Regenerator"
+        ],
+        "stats": {
+            "hp": 65,
+            "atk": 85,
+            "def": 105,
+            "spa": 132,
+            "spd": 163,
+            "spe": 44
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/691-m.png"
+    },
+    {
+        "name": "Mega Falinks",
+        "dex_no": "#870",
+        "types": [
+            "fighting"
+        ],
+        "abilities": [
+            "Defiant"
+        ],
+        "stats": {
+            "hp": 65,
+            "atk": 135,
+            "def": 135,
+            "spa": 70,
+            "spd": 65,
+            "spe": 100
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/870-m.png"
+    },
+    {
+        "name": "Banette",
+        "dex_no": "#354",
+        "types": [
+            "ghost"
+        ],
+        "abilities": [
+            "Insomnia",
+            "Frisk",
+            "Cursed Body"
+        ],
+        "stats": {
+            "hp": 64,
+            "atk": 115,
+            "def": 65,
+            "spa": 83,
+            "spd": 63,
+            "spe": 65
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/354.png"
+    },
+    {
+        "name": "Liepard",
+        "dex_no": "#510",
+        "types": [
+            "dark"
+        ],
+        "abilities": [
+            "Limber",
+            "Unburden",
+            "Prankster"
+        ],
+        "stats": {
+            "hp": 64,
+            "atk": 88,
+            "def": 50,
+            "spa": 88,
+            "spd": 50,
+            "spe": 106
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/510.png"
+    },
+    {
+        "name": "Mega Banette",
+        "dex_no": "#354",
+        "types": [
+            "ghost"
+        ],
+        "abilities": [
+            "Prankster"
+        ],
+        "stats": {
+            "hp": 64,
+            "atk": 165,
+            "def": 75,
+            "spa": 93,
+            "spd": 83,
+            "spe": 75
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/354-m.png"
+    },
+    {
+        "name": "Heliolisk",
+        "dex_no": "#695",
+        "types": [
+            "electric",
+            "normal"
+        ],
+        "abilities": [
+            "Dry Skin",
+            "Sand Veil",
+            "Solar Power"
+        ],
+        "stats": {
+            "hp": 62,
+            "atk": 55,
+            "def": 52,
+            "spa": 109,
+            "spd": 94,
+            "spe": 109
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/695.png"
+    },
+    {
+        "name": "Arbok",
+        "dex_no": "#024",
+        "types": [
+            "poison"
+        ],
+        "abilities": [
+            "Intimidate",
+            "Shed Skin",
+            "Unnerve"
+        ],
+        "stats": {
+            "hp": 60,
+            "atk": 95,
+            "def": 69,
+            "spa": 65,
+            "spd": 79,
+            "spe": 80
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/024.png"
+    },
+    {
+        "name": "Raichu",
+        "dex_no": "#026",
+        "types": [
+            "electric"
+        ],
+        "abilities": [
+            "Static",
+            "Lightning Rod"
+        ],
+        "stats": {
+            "hp": 60,
+            "atk": 90,
+            "def": 55,
+            "spa": 90,
+            "spd": 80,
+            "spe": 110
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/026.png"
+    },
+    {
+        "name": "Gengar",
+        "dex_no": "#094",
+        "types": [
+            "ghost",
+            "poison"
+        ],
+        "abilities": [
+            "Cursed Body"
+        ],
+        "stats": {
+            "hp": 60,
+            "atk": 65,
+            "def": 60,
+            "spa": 130,
+            "spd": 75,
+            "spe": 110
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/094.png"
+    },
+    {
+        "name": "Starmie",
+        "dex_no": "#121",
+        "types": [
+            "water",
+            "psychic"
+        ],
+        "abilities": [
+            "Illuminate",
+            "Natural Cure",
+            "Analytic"
+        ],
+        "stats": {
+            "hp": 60,
+            "atk": 75,
+            "def": 85,
+            "spa": 100,
+            "spd": 85,
+            "spe": 115
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/121.png"
+    },
+    {
+        "name": "Pelipper",
+        "dex_no": "#279",
+        "types": [
+            "water",
+            "flying"
+        ],
+        "abilities": [
+            "Keen Eye",
+            "Drizzle",
+            "Rain Dish"
+        ],
+        "stats": {
+            "hp": 60,
+            "atk": 50,
+            "def": 100,
+            "spa": 95,
+            "spd": 70,
+            "spe": 65
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/279.png"
+    },
+    {
+        "name": "Medicham",
+        "dex_no": "#308",
+        "types": [
+            "fighting",
+            "psychic"
+        ],
+        "abilities": [
+            "Pure Power",
+            "Telepathy"
+        ],
+        "stats": {
+            "hp": 60,
+            "atk": 60,
+            "def": 75,
+            "spa": 60,
+            "spd": 75,
+            "spe": 80
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/308.png"
+    },
+    {
+        "name": "Roserade",
+        "dex_no": "#407",
+        "types": [
+            "grass",
+            "poison"
+        ],
+        "abilities": [
+            "Natural Cure",
+            "Poison Point",
+            "Technician"
+        ],
+        "stats": {
+            "hp": 60,
+            "atk": 70,
+            "def": 65,
+            "spa": 125,
+            "spd": 105,
+            "spe": 90
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/407.png"
+    },
+    {
+        "name": "Bastiodon",
+        "dex_no": "#411",
+        "types": [
+            "rock",
+            "steel"
+        ],
+        "abilities": [
+            "Sturdy",
+            "Soundproof"
+        ],
+        "stats": {
+            "hp": 60,
+            "atk": 52,
+            "def": 168,
+            "spa": 47,
+            "spd": 138,
+            "spe": 30
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/411.png"
+    },
+    {
+        "name": "Watchog",
+        "dex_no": "#505",
+        "types": [
+            "normal"
+        ],
+        "abilities": [
+            "Illuminate",
+            "Keen Eye",
+            "Analytic"
+        ],
+        "stats": {
+            "hp": 60,
+            "atk": 85,
+            "def": 69,
+            "spa": 60,
+            "spd": 69,
+            "spe": 77
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/505.png"
+    },
+    {
+        "name": "Whimsicott",
+        "dex_no": "#547",
+        "types": [
+            "grass",
+            "fairy"
+        ],
+        "abilities": [
+            "Prankster",
+            "Infiltrator",
+            "Chlorophyll"
+        ],
+        "stats": {
+            "hp": 60,
+            "atk": 67,
+            "def": 85,
+            "spa": 77,
+            "spd": 75,
+            "spe": 116
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/547.png"
+    },
+    {
+        "name": "Zoroark",
+        "dex_no": "#571",
+        "types": [
+            "dark"
+        ],
+        "abilities": [
+            "Illusion"
+        ],
+        "stats": {
+            "hp": 60,
+            "atk": 105,
+            "def": 60,
+            "spa": 120,
+            "spd": 60,
+            "spe": 105
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/571.png"
+    },
+    {
+        "name": "Chandelure",
+        "dex_no": "#609",
+        "types": [
+            "ghost",
+            "fire"
+        ],
+        "abilities": [
+            "Flash Fire",
+            "Flame Body",
+            "Infiltrator"
+        ],
+        "stats": {
+            "hp": 60,
+            "atk": 55,
+            "def": 90,
+            "spa": 145,
+            "spd": 90,
+            "spe": 80
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/609.png"
+    },
+    {
+        "name": "Aegislash",
+        "dex_no": "#681",
+        "types": [
+            "steel",
+            "ghost"
+        ],
+        "abilities": [
+            "Stance Change"
+        ],
+        "stats": {
+            "hp": 60,
+            "atk": 50,
+            "def": 140,
+            "spa": 50,
+            "spd": 140,
+            "spe": 60
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/681.png"
+    },
+    {
+        "name": "Polteageist",
+        "dex_no": "#855",
+        "types": [
+            "ghost"
+        ],
+        "abilities": [
+            "Weak Armor",
+            "Cursed Body"
+        ],
+        "stats": {
+            "hp": 60,
+            "atk": 65,
+            "def": 65,
+            "spa": 134,
+            "spd": 114,
+            "spe": 70
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/855.png"
+    },
+    {
+        "name": "Alolan Raichu",
+        "dex_no": "#026",
+        "types": [
+            "electric",
+            "psychic"
+        ],
+        "abilities": [
+            "Surge Surfer"
+        ],
+        "stats": {
+            "hp": 60,
+            "atk": 85,
+            "def": 50,
+            "spa": 95,
+            "spd": 85,
+            "spe": 110
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/026-a.png"
+    },
+    {
+        "name": "Mega Gengar",
+        "dex_no": "#094",
+        "types": [
+            "ghost",
+            "poison"
+        ],
+        "abilities": [
+            "Shadow Tag"
+        ],
+        "stats": {
+            "hp": 60,
+            "atk": 65,
+            "def": 80,
+            "spa": 170,
+            "spd": 95,
+            "spe": 130
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/094-m.png"
+    },
+    {
+        "name": "Mega Starmie",
+        "dex_no": "#121",
+        "types": [
+            "water",
+            "psychic"
+        ],
+        "abilities": [
+            "Huge Power"
+        ],
+        "stats": {
+            "hp": 60,
+            "atk": 100,
+            "def": 105,
+            "spa": 130,
+            "spd": 105,
+            "spe": 120
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/121-m.png"
+    },
+    {
+        "name": "Mega Medicham",
+        "dex_no": "#308",
+        "types": [
+            "fighting",
+            "psychic"
+        ],
+        "abilities": [
+            "Pure Power"
+        ],
+        "stats": {
+            "hp": 60,
+            "atk": 100,
+            "def": 85,
+            "spa": 80,
+            "spd": 85,
+            "spe": 100
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/308-m.png"
+    },
+    {
+        "name": "Mega Chandelure",
+        "dex_no": "#609",
+        "types": [
+            "ghost",
+            "fire"
+        ],
+        "abilities": [
+            "Infiltrator"
+        ],
+        "stats": {
+            "hp": 60,
+            "atk": 75,
+            "def": 110,
+            "spa": 175,
+            "spd": 110,
+            "spe": 90
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/609-m.png"
+    },
+    {
+        "name": "Blade Aegislash",
+        "dex_no": "#681",
+        "types": [
+            "steel",
+            "ghost"
+        ],
+        "abilities": [
+            "Stance Change"
+        ],
+        "stats": {
+            "hp": 60,
+            "atk": 140,
+            "def": 50,
+            "spa": 140,
+            "spd": 50,
+            "spe": 60
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/681-b.png"
+    },
+    {
+        "name": "Scolipede",
+        "dex_no": "#545",
+        "types": [
+            "bug",
+            "poison"
+        ],
+        "abilities": [
+            "Poison Point",
+            "Swarm",
+            "Speed Boost"
+        ],
+        "stats": {
+            "hp": 60,
+            "atk": 100,
+            "def": 89,
+            "spa": 55,
+            "spd": 69,
+            "spe": 112
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/545.png"
+    },
+    {
+        "name": "Mega Raichu X",
+        "dex_no": "#026",
+        "types": [
+            "electric"
+        ],
+        "abilities": [
+            "Electric Surge"
+        ],
+        "stats": {
+            "hp": 60,
+            "atk": 135,
+            "def": 95,
+            "spa": 90,
+            "spd": 95,
+            "spe": 110
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/026-mx.png"
+    },
+    {
+        "name": "Mega Raichu Y",
+        "dex_no": "#026",
+        "types": [
+            "electric"
+        ],
+        "abilities": [
+            "No Guard"
+        ],
+        "stats": {
+            "hp": 60,
+            "atk": 100,
+            "def": 55,
+            "spa": 160,
+            "spd": 80,
+            "spe": 130
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/026-my.png"
+    },
+    {
+        "name": "Mega Scolipede",
+        "dex_no": "#545",
+        "types": [
+            "bug",
+            "poison"
+        ],
+        "abilities": [
+            "Shell Armor"
+        ],
+        "stats": {
+            "hp": 60,
+            "atk": 140,
+            "def": 149,
+            "spa": 75,
+            "spd": 99,
+            "spe": 62
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/545-m.png"
+    },
+    {
+        "name": "Cofagrigus",
+        "dex_no": "#563",
+        "types": [
+            "ghost"
+        ],
+        "abilities": [
+            "Mummy"
+        ],
+        "stats": {
+            "hp": 58,
+            "atk": 50,
+            "def": 145,
+            "spa": 95,
+            "spd": 105,
+            "spe": 30
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/563.png"
+    },
+    {
+        "name": "Runerigus",
+        "dex_no": "#867",
+        "types": [
+            "ground",
+            "ghost"
+        ],
+        "abilities": [
+            "Wandering Spirit"
+        ],
+        "stats": {
+            "hp": 58,
+            "atk": 95,
+            "def": 145,
+            "spa": 50,
+            "spd": 105,
+            "spe": 30
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/867.png"
+    },
+    {
+        "name": "Morpeko",
+        "dex_no": "#877",
+        "types": [
+            "electric",
+            "dark"
+        ],
+        "abilities": [
+            "Hunger Switch"
+        ],
+        "stats": {
+            "hp": 58,
+            "atk": 95,
+            "def": 58,
+            "spa": 70,
+            "spd": 58,
+            "spe": 97
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/877.png"
+    },
+    {
+        "name": "Klefki",
+        "dex_no": "#707",
+        "types": [
+            "steel",
+            "fairy"
+        ],
+        "abilities": [
+            "Prankster",
+            "Magician"
+        ],
+        "stats": {
+            "hp": 57,
+            "atk": 80,
+            "def": 91,
+            "spa": 80,
+            "spd": 87,
+            "spe": 75
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/707.png"
+    },
+    {
+        "name": "Hatterene",
+        "dex_no": "#858",
+        "types": [
+            "psychic",
+            "fairy"
+        ],
+        "abilities": [
+            "Healer",
+            "Anticipation",
+            "Magic Bounce"
+        ],
+        "stats": {
+            "hp": 57,
+            "atk": 90,
+            "def": 95,
+            "spa": 136,
+            "spd": 103,
+            "spe": 29
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/858.png"
+    },
+    {
+        "name": "Alakazam",
+        "dex_no": "#065",
+        "types": [
+            "psychic"
+        ],
+        "abilities": [
+            "Synchronize",
+            "Inner Focus",
+            "Magic Guard"
+        ],
+        "stats": {
+            "hp": 55,
+            "atk": 50,
+            "def": 45,
+            "spa": 135,
+            "spd": 95,
+            "spe": 120
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/065.png"
+    },
+    {
+        "name": "Emolga",
+        "dex_no": "#587",
+        "types": [
+            "electric",
+            "flying"
+        ],
+        "abilities": [
+            "Static",
+            "Motor Drive"
+        ],
+        "stats": {
+            "hp": 55,
+            "atk": 75,
+            "def": 60,
+            "spa": 75,
+            "spd": 60,
+            "spe": 103
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/587.png"
+    },
+    {
+        "name": "Mimikyu",
+        "dex_no": "#778",
+        "types": [
+            "ghost",
+            "fairy"
+        ],
+        "abilities": [
+            "Disguise"
+        ],
+        "stats": {
+            "hp": 55,
+            "atk": 90,
+            "def": 80,
+            "spa": 50,
+            "spd": 105,
+            "spe": 96
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/778.png"
+    },
+    {
+        "name": "Mega Alakazam",
+        "dex_no": "#065",
+        "types": [
+            "psychic"
+        ],
+        "abilities": [
+            "Trace"
+        ],
+        "stats": {
+            "hp": 55,
+            "atk": 50,
+            "def": 65,
+            "spa": 175,
+            "spd": 105,
+            "spe": 150
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/065-m.png"
+    },
+    {
+        "name": "Hisuian Zoroark",
+        "dex_no": "#571",
+        "types": [
+            "normal",
+            "ghost"
+        ],
+        "abilities": [
+            "Illusion"
+        ],
+        "stats": {
+            "hp": 55,
+            "atk": 100,
+            "def": 60,
+            "spa": 125,
+            "spd": 60,
+            "spe": 110
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/571-h.png"
+    },
+    {
+        "name": "Gourgeist",
+        "dex_no": "#711",
+        "types": [
+            "ghost",
+            "grass"
+        ],
+        "abilities": [
+            "Pickup",
+            "Frisk",
+            "Insomnia"
+        ],
+        "stats": {
+            "hp": 55,
+            "atk": 85,
+            "def": 122,
+            "spa": 58,
+            "spd": 75,
+            "spe": 99
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/711-s.png"
+    },
+    {
+        "name": "Sableye",
+        "dex_no": "#302",
+        "types": [
+            "dark",
+            "ghost"
+        ],
+        "abilities": [
+            "Keen Eye",
+            "Stall",
+            "Prankster"
+        ],
+        "stats": {
+            "hp": 50,
+            "atk": 75,
+            "def": 75,
+            "spa": 65,
+            "spd": 65,
+            "spe": 50
+        },
+        "image": "https://www.serebii.net/pokedex-champions/icon/302.png"
+    }
+]

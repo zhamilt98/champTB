@@ -1,0 +1,847 @@
+[
+    {
+        "name": "Big Root",
+        "effect": "An item to be held by a Pok\u00e9mon. This root boosts the amount of HP the holder restores to itself when it uses HP-stealing moves.",
+        "image": "https://www.serebii.net/itemdex/sprites/bigroot.png"
+    },
+    {
+        "name": "Black Belt",
+        "effect": "An item to be held by a Pok\u00e9mon. This belt helps with focus and boosts the power of the holder's Fighting-type moves.",
+        "image": "https://www.serebii.net/itemdex/sprites/blackbelt.png"
+    },
+    {
+        "name": "Black Glasses",
+        "effect": "An item to be held by a Pok\u00e9mon. It's a pair of shady- looking glasses that boost the power of the holder's Dark-type moves.",
+        "image": "https://www.serebii.net/itemdex/sprites/blackglasses.png"
+    },
+    {
+        "name": "Bright Powder",
+        "effect": "An item to be held by a Pok\u00e9mon. This glittery powder casts a tricky glare that lowers the accuracy of opposing Pok\u00e9mon's moves.",
+        "image": "https://www.serebii.net/itemdex/sprites/brightpowder.png"
+    },
+    {
+        "name": "Charcoal",
+        "effect": "An item to be held by a Pok\u00e9mon. It's a combustible fuel that boosts the power of the holder's Fire-type moves.",
+        "image": "https://www.serebii.net/itemdex/sprites/charcoal.png"
+    },
+    {
+        "name": "Choice Scarf",
+        "effect": "An item to be held by a Pok\u00e9mon. This curious scarf boosts the holder's Speed stat but only allows the use of a single move.",
+        "image": "https://www.serebii.net/itemdex/sprites/choicescarf.png"
+    },
+    {
+        "name": "Damp Rock",
+        "effect": "An item to be held by a Pok\u00e9mon. When the holder changes the weather to rain, the rain will persist for longer than usual.",
+        "image": "https://www.serebii.net/itemdex/sprites/damprock.png"
+    },
+    {
+        "name": "Dragon Fang",
+        "effect": "An item to be held by a Pok\u00e9mon. This hard, sharp fang boosts the power of the holder's Dragon-type moves.",
+        "image": "https://www.serebii.net/itemdex/sprites/dragonfang.png"
+    },
+    {
+        "name": "Expert Belt",
+        "effect": "An item to be held by a Pok\u00e9mon. It's a well-worn belt that slightly boosts the power of the holder's supereffective moves.",
+        "image": "https://www.serebii.net/itemdex/sprites/expertbelt.png"
+    },
+    {
+        "name": "Fairy Feather",
+        "effect": "An item to be held by a Pok\u00e9mon. This feather, which gleams faintly when hit by light, boosts the power of the holder's Fairy-type moves.",
+        "image": "https://www.serebii.net/itemdex/sprites/fairyfeather.png"
+    },
+    {
+        "name": "Focus Band",
+        "effect": "An item to be held by a Pok\u00e9mon. When the holder is hit with a move that should knock it out, it may be able to endure with 1 HP.",
+        "image": "https://www.serebii.net/itemdex/sprites/focusband.png"
+    },
+    {
+        "name": "Focus Sash",
+        "effect": "An item to be held by a Pok\u00e9mon. If the holder has full HP and it is hit with a move that should knock it out, it will endure with 1 HP\u2014but only once.",
+        "image": "https://www.serebii.net/itemdex/sprites/focussash.png"
+    },
+    {
+        "name": "Hard Stone",
+        "effect": "An item to be held by a Pok\u00e9mon. It's a durable stone that boosts the power of the holder's Rock-type moves.",
+        "image": "https://www.serebii.net/itemdex/sprites/hardstone.png"
+    },
+    {
+        "name": "Heat Rock",
+        "effect": "An item to be held by a Pok\u00e9mon. When the holder changes the weather to harsh sunlight, the sunlight will persist for longer than usual.",
+        "image": "https://www.serebii.net/itemdex/sprites/heatrock.png"
+    },
+    {
+        "name": "Icy Rock",
+        "effect": "An item to be held by a Pok\u00e9mon. When the holder changes the weather to snow, the snow will persist for longer than usual.",
+        "image": "https://www.serebii.net/itemdex/sprites/icyrock.png"
+    },
+    {
+        "name": "Iron Ball",
+        "effect": "An item to be held by a Pok\u00e9mon. It lowers the holder's Speed stat and makes the holder vulnerable to Ground- type moves even if it is a Flying type or is levitating.",
+        "image": "https://www.serebii.net/itemdex/sprites/ironball.png"
+    },
+    {
+        "name": "King's Rock",
+        "effect": "An item to be held by a Pok\u00e9mon. It may cause the target to flinch whenever the holder successfully inflicts damage on them with an attack.",
+        "image": "https://www.serebii.net/itemdex/sprites/king'srock.png"
+    },
+    {
+        "name": "Leftovers",
+        "effect": "An item to be held by a Pok\u00e9mon. It slowly but steadily restores the holder's HP.",
+        "image": "https://www.serebii.net/itemdex/sprites/leftovers.png"
+    },
+    {
+        "name": "Life Orb",
+        "effect": "An item to be held by a Pok\u00e9mon. It boosts the power of the holder's moves, but the holder also loses a small amount of HP upon landing an attack.",
+        "image": "https://www.serebii.net/itemdex/sprites/lifeorb.png"
+    },
+    {
+        "name": "Light Ball",
+        "effect": "An item to be held by Pikachu. It's a mysterious orb that boosts Pikachu's Attack and Sp. Atk stats.",
+        "image": "https://www.serebii.net/itemdex/sprites/lightball.png"
+    },
+    {
+        "name": "Light Clay",
+        "effect": "An item to be held by a Pok\u00e9mon. When the holder uses protective moves like Light Screen or Reflect, their effects will last longer than usual.",
+        "image": "https://www.serebii.net/itemdex/sprites/lightclay.png"
+    },
+    {
+        "name": "Magnet",
+        "effect": "An item to be held by a Pok\u00e9mon. It's a powerful magnet that boosts the power of the holder's Electric-type moves.",
+        "image": "https://www.serebii.net/itemdex/sprites/magnet.png"
+    },
+    {
+        "name": "Mental Herb",
+        "effect": "An item to be held by a Pok\u00e9mon. The holder will be able to shake off move-binding effects to move freely\u2014 but only once.",
+        "image": "https://www.serebii.net/itemdex/sprites/mentalherb.png"
+    },
+    {
+        "name": "Metal Coat",
+        "effect": "An item to be held by a Pok\u00e9mon. It's a special metallic coating that boosts the power of the holder's Steel-type moves.",
+        "image": "https://www.serebii.net/itemdex/sprites/metalcoat.png"
+    },
+    {
+        "name": "Metronome",
+        "effect": "An item to be held by a Pok\u00e9mon. It boosts the power of a move that's used repeatedly. Once the chain is broken, the move's power returns to normal.",
+        "image": "https://www.serebii.net/itemdex/sprites/metronome.png"
+    },
+    {
+        "name": "Miracle Seed",
+        "effect": "An item to be held by a Pok\u00e9mon. It's a seed imbued with life force that boosts the power of the holder's Grass-type moves.",
+        "image": "https://www.serebii.net/itemdex/sprites/miracleseed.png"
+    },
+    {
+        "name": "Muscle Band",
+        "effect": "An item to be held by a Pok\u00e9mon. This headband exudes strength, slightly boosting the power of the holder's physical moves.",
+        "image": "https://www.serebii.net/itemdex/sprites/muscleband.png"
+    },
+    {
+        "name": "Mystic Water",
+        "effect": "An item to be held by a Pok\u00e9mon. This teardrop-shaped gem boosts the power of the holder's Water-type moves.",
+        "image": "https://www.serebii.net/itemdex/sprites/mysticwater.png"
+    },
+    {
+        "name": "Never-Melt Ice",
+        "effect": "An item to be held by a Pok\u00e9mon. It's a heat-repelling piece of ice that boosts the power of the holder's Ice- type moves.",
+        "image": "https://www.serebii.net/itemdex/sprites/never-meltice.png"
+    },
+    {
+        "name": "Poison Barb",
+        "effect": "An item to be held by a Pok\u00e9mon. This small poisonous barb boosts the power of the holder's Poison-type moves.",
+        "image": "https://www.serebii.net/itemdex/sprites/poisonbarb.png"
+    },
+    {
+        "name": "Quick Claw",
+        "effect": "An item to be held by a Pok\u00e9mon. This light, sharp claw lets the holder occasionally unleash a move faster than it usually would.",
+        "image": "https://www.serebii.net/itemdex/sprites/quickclaw.png"
+    },
+    {
+        "name": "Scope Lens",
+        "effect": "An item to be held by a Pok\u00e9mon. It's a lens for scoping out weak points. It boosts the holder's critical-hit ratio.",
+        "image": "https://www.serebii.net/itemdex/sprites/scopelens.png"
+    },
+    {
+        "name": "Sharp Beak",
+        "effect": "An item to be held by a Pok\u00e9mon. It's a long, sharp beak that boosts the power of the holder's Flying-type moves.",
+        "image": "https://www.serebii.net/itemdex/sprites/sharpbeak.png"
+    },
+    {
+        "name": "Shed Shell",
+        "effect": "An item to be held by a Pok\u00e9mon. Hard and sturdy, this discarded carapace enables the holder to switch out of battle without fail.",
+        "image": "https://www.serebii.net/itemdex/sprites/shedshell.png"
+    },
+    {
+        "name": "Shell Bell",
+        "effect": "An item to be held by a Pok\u00e9mon. The holder restores a little HP to itself every time it inflicts damage with an attack.",
+        "image": "https://www.serebii.net/itemdex/sprites/shellbell.png"
+    },
+    {
+        "name": "Silk Scarf",
+        "effect": "An item to be held by a Pok\u00e9mon. It's a sumptuous scarf that boosts the power of the holder's Normal-type moves.",
+        "image": "https://www.serebii.net/itemdex/sprites/silkscarf.png"
+    },
+    {
+        "name": "Silver Powder",
+        "effect": "An item to be held by a Pok\u00e9mon. It's a shiny silver powder that boosts the power of the holder's Bug-type moves.",
+        "image": "https://www.serebii.net/itemdex/sprites/silverpowder.png"
+    },
+    {
+        "name": "Smooth Rock",
+        "effect": "An item to be held by a Pok\u00e9mon. When the holder changes the weather to a sandstorm, the storm will persist for longer than usual.",
+        "image": "https://www.serebii.net/itemdex/sprites/smoothrock.png"
+    },
+    {
+        "name": "Soft Sand",
+        "effect": "An item to be held by a Pok\u00e9mon. This loose, silky sand boosts the power of the holder's Ground-type moves.",
+        "image": "https://www.serebii.net/itemdex/sprites/softsand.png"
+    },
+    {
+        "name": "Spell Tag",
+        "effect": "An item to be held by a Pok\u00e9mon. It's a sinister, eerie tag that boosts the power of the holder's Ghost-type moves.",
+        "image": "https://www.serebii.net/itemdex/sprites/spelltag.png"
+    },
+    {
+        "name": "Twisted Spoon",
+        "effect": "An item to be held by a Pok\u00e9mon. This spoon is imbued with telekinetic energy and boosts the power of the holder's Psychic-type moves.",
+        "image": "https://www.serebii.net/itemdex/sprites/twistedspoon.png"
+    },
+    {
+        "name": "White Herb",
+        "effect": "An item to be held by a Pok\u00e9mon. It will restore any lowered stat in battle\u2014but only once.",
+        "image": "https://www.serebii.net/itemdex/sprites/whiteherb.png"
+    },
+    {
+        "name": "Wide Lens",
+        "effect": "An item to be held by a Pok\u00e9mon. It's a magnifying lens that slightly boosts the accuracy of the holder's moves.",
+        "image": "https://www.serebii.net/itemdex/sprites/widelens.png"
+    },
+    {
+        "name": "Wise Glasses",
+        "effect": "An item to be held by a Pok\u00e9mon. This thick pair of glasses slightly boosts the power of the holder's special moves.",
+        "image": "https://www.serebii.net/itemdex/sprites/wiseglasses.png"
+    },
+    {
+        "name": "Zoom Lens",
+        "effect": "An item to be held by a Pok\u00e9mon. When the holder acts after its target, its move will be more accurate than usual.",
+        "image": "https://www.serebii.net/itemdex/sprites/zoomlens.png"
+    },
+    {
+        "name": "Abomasite",
+        "effect": "One of a variety of mysterious Mega Stones. An Abomasnow holding this stone will be able to Mega Evolve during battle.",
+        "image": "https://www.serebii.net/itemdex/sprites/abomasite.png"
+    },
+    {
+        "name": "Absolite",
+        "effect": "One of a variety of mysterious Mega Stones. An Absol holding this stone will be able to Mega Evolve during battle.",
+        "image": "https://www.serebii.net/itemdex/sprites/absolite.png"
+    },
+    {
+        "name": "Aerodactylite",
+        "effect": "One of a variety of mysterious Mega Stones. An Aerodactyl holding this stone will be able to Mega Evolve during battle.",
+        "image": "https://www.serebii.net/itemdex/sprites/aerodactylite.png"
+    },
+    {
+        "name": "Aggronite",
+        "effect": "One of a variety of mysterious Mega Stones. An Aggron holding this stone will be able to Mega Evolve during battle.",
+        "image": "https://www.serebii.net/itemdex/sprites/aggronite.png"
+    },
+    {
+        "name": "Alakazite",
+        "effect": "One of a variety of mysterious Mega Stones. An Alakazam holding this stone will be able to Mega Evolve during battle.",
+        "image": "https://www.serebii.net/itemdex/sprites/alakazite.png"
+    },
+    {
+        "name": "Altarianite",
+        "effect": "One of a variety of mysterious Mega Stones. An Altaria holding this stone will be able to Mega Evolve during battle.",
+        "image": "https://www.serebii.net/itemdex/sprites/altarianite.png"
+    },
+    {
+        "name": "Ampharosite",
+        "effect": "One of a variety of mysterious Mega Stones. An Ampharos holding this stone will be able to Mega Evolve during battle.",
+        "image": "https://www.serebii.net/itemdex/sprites/ampharosite.png"
+    },
+    {
+        "name": "Audinite",
+        "effect": "One of a variety of mysterious Mega Stones. An Audino holding this stone will be able to Mega Evolve during battle.",
+        "image": "https://www.serebii.net/itemdex/sprites/audinite.png"
+    },
+    {
+        "name": "Banettite",
+        "effect": "One of a variety of mysterious Mega Stones. A Banette holding this stone will be able to Mega Evolve during battle.",
+        "image": "https://www.serebii.net/itemdex/sprites/banettite.png"
+    },
+    {
+        "name": "Barbaracite",
+        "effect": "One of a variety of mysterious Mega Stones. A Barbaracle holding this stone will be able to Mega Evolve during battle.",
+        "image": "https://www.serebii.net/itemdex/sprites/barbaracite.png"
+    },
+    {
+        "name": "Beedrillite",
+        "effect": "One of a variety of mysterious Mega Stones. A Beedrill holding this stone will be able to Mega Evolve during battle.",
+        "image": "https://www.serebii.net/itemdex/sprites/beedrillite.png"
+    },
+    {
+        "name": "Blastoisinite",
+        "effect": "One of a variety of mysterious Mega Stones. A Blastoise holding this stone will be able to Mega Evolve during battle.",
+        "image": "https://www.serebii.net/itemdex/sprites/blastoisinite.png"
+    },
+    {
+        "name": "Blazikenite",
+        "effect": "One of a variety of mysterious Mega Stones. A Blaziken holding this stone will be able to Mega Evolve during battle.",
+        "image": "https://www.serebii.net/itemdex/sprites/blazikenite.png"
+    },
+    {
+        "name": "Cameruptite",
+        "effect": "One of a variety of mysterious Mega Stones. A Camerupt holding this stone will be able to Mega Evolve during battle.",
+        "image": "https://www.serebii.net/itemdex/sprites/cameruptite.png"
+    },
+    {
+        "name": "Chandelurite",
+        "effect": "One of a variety of mysterious Mega Stones. A Chandelure holding this stone will be able to Mega Evolve during battle.",
+        "image": "https://www.serebii.net/itemdex/sprites/chandelurite.png"
+    },
+    {
+        "name": "Charizardite X",
+        "effect": "One of a variety of mysterious Mega Stones. A Charizard holding this stone will be able to Mega Evolve during battle.",
+        "image": "https://www.serebii.net/itemdex/sprites/charizarditex.png"
+    },
+    {
+        "name": "Charizardite Y",
+        "effect": "One of a variety of mysterious Mega Stones. A Charizard holding this stone will be able to Mega Evolve during battle.",
+        "image": "https://www.serebii.net/itemdex/sprites/charizarditey.png"
+    },
+    {
+        "name": "Chesnaughtite",
+        "effect": "One of a variety of mysterious Mega Stones. A Chesnaught holding this stone will be able to Mega Evolve during battle.",
+        "image": "https://www.serebii.net/itemdex/sprites/chesnaughtite.png"
+    },
+    {
+        "name": "Chimechite",
+        "effect": "One of a variety of mysterious Mega Stones. A Chimecho holding this stone will be able to Mega Evolve during battle.",
+        "image": "https://www.serebii.net/itemdex/sprites/chimechite.png"
+    },
+    {
+        "name": "Clefablite",
+        "effect": "One of a variety of mysterious Mega Stones. A Clefable holding this stone will be able to Mega Evolve during battle.",
+        "image": "https://www.serebii.net/itemdex/sprites/clefablite.png"
+    },
+    {
+        "name": "Crabominite",
+        "effect": "One of a variety of mysterious Mega Stones. A Crabominable holding this stone will be able to Mega Evolve during battle.",
+        "image": "https://www.serebii.net/itemdex/sprites/crabominite.png"
+    },
+    {
+        "name": "Delphoxite",
+        "effect": "One of a variety of mysterious Mega Stones. A Delphox holding this stone will be able to Mega Evolve during battle.",
+        "image": "https://www.serebii.net/itemdex/sprites/delphoxite.png"
+    },
+    {
+        "name": "Dragalgite",
+        "effect": "One of a variety of mysterious Mega Stones. A Dragalge holding this stone will be able to Mega Evolve during battle.",
+        "image": "https://www.serebii.net/itemdex/sprites/dragalgite.png"
+    },
+    {
+        "name": "Dragoninite",
+        "effect": "One of a variety of mysterious Mega Stones. A Dragonite holding this stone will be able to Mega Evolve during battle.",
+        "image": "https://www.serebii.net/itemdex/sprites/dragoninite.png"
+    },
+    {
+        "name": "Drampanite",
+        "effect": "One of a variety of mysterious Mega Stones. A Drampa holding this stone will be able to Mega Evolve during battle.",
+        "image": "https://www.serebii.net/itemdex/sprites/drampanite.png"
+    },
+    {
+        "name": "Eelektrossite",
+        "effect": "One of a variety of mysterious Mega Stones. An Eelektross holding this stone will be able to Mega Evolve during battle.",
+        "image": "https://www.serebii.net/itemdex/sprites/eelektrossite.png"
+    },
+    {
+        "name": "Emboarite",
+        "effect": "One of a variety of mysterious Mega Stones. An Emboar holding this stone will be able to Mega Evolve during battle.",
+        "image": "https://www.serebii.net/itemdex/sprites/emboarite.png"
+    },
+    {
+        "name": "Excadrite",
+        "effect": "One of a variety of mysterious Mega Stones. An Excadrill holding this stone will be able to Mega Evolve during battle.",
+        "image": "https://www.serebii.net/itemdex/sprites/excadrite.png"
+    },
+    {
+        "name": "Falinksite",
+        "effect": "One of a variety of mysterious Mega Stones. A Falinks holding this stone will be able to Mega Evolve during battle.",
+        "image": "https://www.serebii.net/itemdex/sprites/falinksite.png"
+    },
+    {
+        "name": "Feraligite",
+        "effect": "One of a variety of mysterious Mega Stones. A Feraligatr holding this stone will be able to Mega Evolve during battle.",
+        "image": "https://www.serebii.net/itemdex/sprites/feraligite.png"
+    },
+    {
+        "name": "Floettite",
+        "effect": "One of a variety of mysterious Mega Stones. A special Floette holding this stone will be able to Mega Evolve during battle.",
+        "image": "https://www.serebii.net/itemdex/sprites/floettite.png"
+    },
+    {
+        "name": "Froslassite",
+        "effect": "One of a variety of mysterious Mega Stones. A Froslass holding this stone will be able to Mega Evolve during battle.",
+        "image": "https://www.serebii.net/itemdex/sprites/froslassite.png"
+    },
+    {
+        "name": "Galladite",
+        "effect": "One of a variety of mysterious Mega Stones. A Gallade holding this stone will be able to Mega Evolve during battle.",
+        "image": "https://www.serebii.net/itemdex/sprites/galladite.png"
+    },
+    {
+        "name": "Garchompite",
+        "effect": "One of a variety of mysterious Mega Stones. A Garchomp holding this stone will be able to Mega Evolve during battle.",
+        "image": "https://www.serebii.net/itemdex/sprites/garchompite.png"
+    },
+    {
+        "name": "Gardevoirite",
+        "effect": "One of a variety of mysterious Mega Stones. A Gardevoir holding this stone will be able to Mega Evolve during battle.",
+        "image": "https://www.serebii.net/itemdex/sprites/gardevoirite.png"
+    },
+    {
+        "name": "Gengarite",
+        "effect": "One of a variety of mysterious Mega Stones. A Gengar holding this stone will be able to Mega Evolve during battle.",
+        "image": "https://www.serebii.net/itemdex/sprites/gengarite.png"
+    },
+    {
+        "name": "Glalitite",
+        "effect": "One of a variety of mysterious Mega Stones. A Glalie holding this stone will be able to Mega Evolve during battle.",
+        "image": "https://www.serebii.net/itemdex/sprites/glalitite.png"
+    },
+    {
+        "name": "Glimmoranite",
+        "effect": "One of a variety of mysterious Mega Stones. A Glimmora holding this stone will be able to Mega Evolve during battle.",
+        "image": "https://www.serebii.net/itemdex/sprites/glimmoranite.png"
+    },
+    {
+        "name": "Golurkite",
+        "effect": "One of a variety of mysterious Mega Stones. A Golurk holding this stone will be able to Mega Evolve during battle.",
+        "image": "https://www.serebii.net/itemdex/sprites/golurkite.png"
+    },
+    {
+        "name": "Greninjite",
+        "effect": "One of a variety of mysterious Mega Stones. A Greninja holding this stone will be able to Mega Evolve during battle.",
+        "image": "https://www.serebii.net/itemdex/sprites/greninjite.png"
+    },
+    {
+        "name": "Gyaradosite",
+        "effect": "One of a variety of mysterious Mega Stones. A Gyarados holding this stone will be able to Mega Evolve during battle.",
+        "image": "https://www.serebii.net/itemdex/sprites/gyaradosite.png"
+    },
+    {
+        "name": "Hawluchanite",
+        "effect": "One of a variety of mysterious Mega Stones. A Hawlucha holding this stone will be able to Mega Evolve during battle.",
+        "image": "https://www.serebii.net/itemdex/sprites/hawluchanite.png"
+    },
+    {
+        "name": "Heracronite",
+        "effect": "One of a variety of mysterious Mega Stones. A Heracross holding this stone will be able to Mega Evolve during battle.",
+        "image": "https://www.serebii.net/itemdex/sprites/heracronite.png"
+    },
+    {
+        "name": "Houndoominite",
+        "effect": "One of a variety of mysterious Mega Stones. A Houndoom holding this stone will be able to Mega Evolve during battle.",
+        "image": "https://www.serebii.net/itemdex/sprites/houndoominite.png"
+    },
+    {
+        "name": "Kangaskhanite",
+        "effect": "One of a variety of mysterious Mega Stones. A Kangaskhan holding this stone will be able to Mega Evolve during battle.",
+        "image": "https://www.serebii.net/itemdex/sprites/kangaskhanite.png"
+    },
+    {
+        "name": "Lopunnite",
+        "effect": "One of a variety of mysterious Mega Stones. A Lopunny holding this stone will be able to Mega Evolve during battle.",
+        "image": "https://www.serebii.net/itemdex/sprites/lopunnite.png"
+    },
+    {
+        "name": "Lucarionite",
+        "effect": "One of a variety of mysterious Mega Stones. A Lucario holding this stone will be able to Mega Evolve during battle.",
+        "image": "https://www.serebii.net/itemdex/sprites/lucarionite.png"
+    },
+    {
+        "name": "Malamarite",
+        "effect": "One of a variety of mysterious Mega Stones. A Malamar holding this stone will be able to Mega Evolve during battle.",
+        "image": "https://www.serebii.net/itemdex/sprites/malamarite.png"
+    },
+    {
+        "name": "Manectite",
+        "effect": "One of a variety of mysterious Mega Stones. A Manectric holding this stone will be able to Mega Evolve during battle.",
+        "image": "https://www.serebii.net/itemdex/sprites/manectite.png"
+    },
+    {
+        "name": "Mawilite",
+        "effect": "One of a variety of mysterious Mega Stones. A Mawile holding this stone will be able to Mega Evolve during battle.",
+        "image": "https://www.serebii.net/itemdex/sprites/mawilite.png"
+    },
+    {
+        "name": "Medichamite",
+        "effect": "One of a variety of mysterious Mega Stones. A Medicham holding this stone will be able to Mega Evolve during battle.",
+        "image": "https://www.serebii.net/itemdex/sprites/medichamite.png"
+    },
+    {
+        "name": "Meganiumite",
+        "effect": "One of a variety of mysterious Mega Stones. A Meganium holding this stone will be able to Mega Evolve during battle.",
+        "image": "https://www.serebii.net/itemdex/sprites/meganiumite.png"
+    },
+    {
+        "name": "Meowsticite",
+        "effect": "One of a variety of mysterious Mega Stones. A Meowstic holding this stone will be able to Mega Evolve during battle.",
+        "image": "https://www.serebii.net/itemdex/sprites/meowsticite.png"
+    },
+    {
+        "name": "Metagrossite",
+        "effect": "One of a variety of mysterious Mega Stones. A Metagross holding this stone will be able to Mega Evolve during battle.",
+        "image": "https://www.serebii.net/itemdex/sprites/metagrossite.png"
+    },
+    {
+        "name": "Pidgeotite",
+        "effect": "One of a variety of mysterious Mega Stones. A Pidgeot holding this stone will be able to Mega Evolve during battle.",
+        "image": "https://www.serebii.net/itemdex/sprites/pidgeotite.png"
+    },
+    {
+        "name": "Pinsirite",
+        "effect": "One of a variety of mysterious Mega Stones. A Pinsir holding this stone will be able to Mega Evolve during battle.",
+        "image": "https://www.serebii.net/itemdex/sprites/pinsirite.png"
+    },
+    {
+        "name": "Pyroarite",
+        "effect": "One of a variety of mysterious Mega Stones. A Pyroar holding this stone will be able to Mega Evolve during battle.",
+        "image": "https://www.serebii.net/itemdex/sprites/pyroarite.png"
+    },
+    {
+        "name": "Raichunite X",
+        "effect": "One of a variety of mysterious Mega Stones. A Raichu holding this stone will be able to Mega Evolve during battle.",
+        "image": "https://www.serebii.net/itemdex/sprites/raichunitex.png"
+    },
+    {
+        "name": "Raichunite Y",
+        "effect": "One of a variety of mysterious Mega Stones. A Raichu holding this stone will be able to Mega Evolve during battle.",
+        "image": "https://www.serebii.net/itemdex/sprites/raichunitey.png"
+    },
+    {
+        "name": "Sablenite",
+        "effect": "One of a variety of mysterious Mega Stones. A Sableye holding this stone will be able to Mega Evolve during battle.",
+        "image": "https://www.serebii.net/itemdex/sprites/sablenite.png"
+    },
+    {
+        "name": "Sceptilite",
+        "effect": "One of a variety of mysterious Mega Stones. A Sceptile holding this stone will be able to Mega Evolve during battle.",
+        "image": "https://www.serebii.net/itemdex/sprites/sceptilite.png"
+    },
+    {
+        "name": "Scizorite",
+        "effect": "One of a variety of mysterious Mega Stones. A Scizor holding this stone will be able to Mega Evolve during battle.",
+        "image": "https://www.serebii.net/itemdex/sprites/scizorite.png"
+    },
+    {
+        "name": "Scolipite",
+        "effect": "One of a variety of mysterious Mega Stones. A Scolipede holding this stone will be able to Mega Evolve during battle.",
+        "image": "https://www.serebii.net/itemdex/sprites/scolipite.png"
+    },
+    {
+        "name": "Scovillainite",
+        "effect": "One of a variety of mysterious Mega Stones. A Scovillain holding this stone will be able to Mega Evolve during battle.",
+        "image": "https://www.serebii.net/itemdex/sprites/scovillainite.png"
+    },
+    {
+        "name": "Scraftinite",
+        "effect": "One of a variety of mysterious Mega Stones. A Scrafty holding this stone will be able to Mega Evolve during battle.",
+        "image": "https://www.serebii.net/itemdex/sprites/scraftinite.png"
+    },
+    {
+        "name": "Sharpedonite",
+        "effect": "One of a variety of mysterious Mega Stones. A Sharpedo holding this stone will be able to Mega Evolve during battle.",
+        "image": "https://www.serebii.net/itemdex/sprites/sharpedonite.png"
+    },
+    {
+        "name": "Skarmorite",
+        "effect": "One of a variety of mysterious Mega Stones. A Skarmory holding this stone will be able to Mega Evolve during battle.",
+        "image": "https://www.serebii.net/itemdex/sprites/skarmorite.png"
+    },
+    {
+        "name": "Slowbronite",
+        "effect": "One of a variety of mysterious Mega Stones. A Slowbro holding this stone will be able to Mega Evolve during battle. It won't work for a Galarian Slowbro, however.",
+        "image": "https://www.serebii.net/itemdex/sprites/slowbronite.png"
+    },
+    {
+        "name": "Staraptite",
+        "effect": "One of a variety of mysterious Mega Stones. A Staraptor holding this stone will be able to Mega Evolve during battle.",
+        "image": "https://www.serebii.net/itemdex/sprites/staraptite.png"
+    },
+    {
+        "name": "Starminite",
+        "effect": "One of a variety of mysterious Mega Stones. A Starmie holding this stone will be able to Mega Evolve during battle.",
+        "image": "https://www.serebii.net/itemdex/sprites/starminite.png"
+    },
+    {
+        "name": "Steelixite",
+        "effect": "One of a variety of mysterious Mega Stones. A Steelix holding this stone will be able to Mega Evolve during battle.",
+        "image": "https://www.serebii.net/itemdex/sprites/steelixite.png"
+    },
+    {
+        "name": "Swampertite",
+        "effect": "One of a variety of mysterious Mega Stones. A Swampert holding this stone will be able to Mega Evolve during battle.",
+        "image": "https://www.serebii.net/itemdex/sprites/swampertite.png"
+    },
+    {
+        "name": "Tyranitarite",
+        "effect": "One of a variety of mysterious Mega Stones. A Tyranitar holding this stone will be able to Mega Evolve during battle.",
+        "image": "https://www.serebii.net/itemdex/sprites/tyranitarite.png"
+    },
+    {
+        "name": "Venusaurite",
+        "effect": "One of a variety of mysterious Mega Stones. A Venusaur holding this stone will be able to Mega Evolve during battle.",
+        "image": "https://www.serebii.net/itemdex/sprites/venusaurite.png"
+    },
+    {
+        "name": "Victreebelite",
+        "effect": "One of a variety of mysterious Mega Stones. A Victreebel holding this stone will be able to Mega Evolve during battle.",
+        "image": "https://www.serebii.net/itemdex/sprites/victreebelite.png"
+    },
+    {
+        "name": "Aspear Berry",
+        "effect": "If a Pok\u00e9mon holds one of these Berries, it will be able to thaw itself after being frozen.",
+        "image": "https://www.serebii.net/itemdex/sprites/aspearberry.png"
+    },
+    {
+        "name": "Babiri Berry",
+        "effect": "If a Pok\u00e9mon holding this Berry is hit with a supereffective Steel-type move, the power of that move will be weakened.",
+        "image": "https://www.serebii.net/itemdex/sprites/babiriberry.png"
+    },
+    {
+        "name": "Charti Berry",
+        "effect": "If a Pok\u00e9mon holding this Berry is hit with a supereffective Rock-type move, the power of that move will be weakened.",
+        "image": "https://www.serebii.net/itemdex/sprites/chartiberry.png"
+    },
+    {
+        "name": "Cheri Berry",
+        "effect": "If a Pok\u00e9mon holds one of these Berries, it will be able to free itself from paralysis.",
+        "image": "https://www.serebii.net/itemdex/sprites/cheriberry.png"
+    },
+    {
+        "name": "Chesto Berry",
+        "effect": "If a Pok\u00e9mon holds one of these Berries, it will be able to shake off its drowsiness.",
+        "image": "https://www.serebii.net/itemdex/sprites/chestoberry.png"
+    },
+    {
+        "name": "Chilan Berry",
+        "effect": "If a Pok\u00e9mon holding this Berry is hit with a Normal-type move, the power of that move will be weakened.",
+        "image": "https://www.serebii.net/itemdex/sprites/chilanberry.png"
+    },
+    {
+        "name": "Chople Berry",
+        "effect": "If a Pok\u00e9mon holding this Berry is hit with a supereffective Fighting-type move, the power of that move will be weakened.",
+        "image": "https://www.serebii.net/itemdex/sprites/chopleberry.png"
+    },
+    {
+        "name": "Coba Berry",
+        "effect": "If a Pok\u00e9mon holding this Berry is hit with a supereffective Flying-type move, the power of that move will be weakened.",
+        "image": "https://www.serebii.net/itemdex/sprites/cobaberry.png"
+    },
+    {
+        "name": "Colbur Berry",
+        "effect": "If a Pok\u00e9mon holding this Berry is hit with a supereffective Dark-type move, the power of that move will be weakened.",
+        "image": "https://www.serebii.net/itemdex/sprites/colburberry.png"
+    },
+    {
+        "name": "Haban Berry",
+        "effect": "If a Pok\u00e9mon holding this Berry is hit with a supereffective Dragon-type move, the power of that move will be weakened.",
+        "image": "https://www.serebii.net/itemdex/sprites/habanberry.png"
+    },
+    {
+        "name": "Kasib Berry",
+        "effect": "If a Pok\u00e9mon holding this Berry is hit with a supereffective Ghost-type move, the power of that move will be weakened.",
+        "image": "https://www.serebii.net/itemdex/sprites/kasibberry.png"
+    },
+    {
+        "name": "Kebia Berry",
+        "effect": "If a Pok\u00e9mon holding this Berry is hit with a supereffective Poison-type move, the power of that move will be weakened.",
+        "image": "https://www.serebii.net/itemdex/sprites/kebiaberry.png"
+    },
+    {
+        "name": "Leppa Berry",
+        "effect": "If a Pok\u00e9mon holds one of these Berries, it will be able to restore 10 PP to a move.",
+        "image": "https://www.serebii.net/itemdex/sprites/leppaberry.png"
+    },
+    {
+        "name": "Lum Berry",
+        "effect": "If a Pok\u00e9mon holds one of these Berries, it will be able to cure itself of any status condition it may have.",
+        "image": "https://www.serebii.net/itemdex/sprites/lumberry.png"
+    },
+    {
+        "name": "Occa Berry",
+        "effect": "If a Pok\u00e9mon holding this Berry is hit with a supereffective Fire-type move, the power of that move will be weakened.",
+        "image": "https://www.serebii.net/itemdex/sprites/occaberry.png"
+    },
+    {
+        "name": "Oran Berry",
+        "effect": "If a Pok\u00e9mon holds one of these Berries, it will be able to restore 10 HP to itself.",
+        "image": "https://www.serebii.net/itemdex/sprites/oranberry.png"
+    },
+    {
+        "name": "Passho Berry",
+        "effect": "If a Pok\u00e9mon holding this Berry is hit with a supereffective Water-type move, the power of that move will be weakened.",
+        "image": "https://www.serebii.net/itemdex/sprites/passhoberry.png"
+    },
+    {
+        "name": "Payapa Berry",
+        "effect": "If a Pok\u00e9mon holding this Berry is hit with a supereffective Psychic-type move, the power of that move will be weakened.",
+        "image": "https://www.serebii.net/itemdex/sprites/payapaberry.png"
+    },
+    {
+        "name": "Pecha Berry",
+        "effect": "If a Pok\u00e9mon holds one of these Berries, it will be able to lift the effects of being poisoned from itself.",
+        "image": "https://www.serebii.net/itemdex/sprites/pechaberry.png"
+    },
+    {
+        "name": "Persim Berry",
+        "effect": "If a Pok\u00e9mon holds one of these Berries, it will be able to cure itself of confusion.",
+        "image": "https://www.serebii.net/itemdex/sprites/persimberry.png"
+    },
+    {
+        "name": "Rawst Berry",
+        "effect": "If a Pok\u00e9mon holds one of these Berries, it will be able to cure itself of a burn.",
+        "image": "https://www.serebii.net/itemdex/sprites/rawstberry.png"
+    },
+    {
+        "name": "Rindo Berry",
+        "effect": "If a Pok\u00e9mon holding this Berry is hit with a supereffective Grass-type move, the power of that move will be weakened.",
+        "image": "https://www.serebii.net/itemdex/sprites/rindoberry.png"
+    },
+    {
+        "name": "Roseli Berry",
+        "effect": "If a Pok\u00e9mon holding this Berry is hit with a supereffective Fairy-type move, the power of that move will be weakened.",
+        "image": "https://www.serebii.net/itemdex/sprites/roseliberry.png"
+    },
+    {
+        "name": "Shuca Berry",
+        "effect": "If a Pok\u00e9mon holding this Berry is hit with a supereffective Ground-type move, the power of that move will be weakened.",
+        "image": "https://www.serebii.net/itemdex/sprites/shucaberry.png"
+    },
+    {
+        "name": "Sitrus Berry",
+        "effect": "If a Pok\u00e9mon holds one of these Berries, it will be able to restore a small amount of HP to itself.",
+        "image": "https://www.serebii.net/itemdex/sprites/sitrusberry.png"
+    },
+    {
+        "name": "Tanga Berry",
+        "effect": "If a Pok\u00e9mon holding this Berry is hit with a supereffective Bug-type move, the power of that move will be weakened.",
+        "image": "https://www.serebii.net/itemdex/sprites/tangaberry.png"
+    },
+    {
+        "name": "Wacan Berry",
+        "effect": "If a Pok\u00e9mon holding this Berry is hit with a supereffective Electric-type move, the power of that move will be weakened.",
+        "image": "https://www.serebii.net/itemdex/sprites/wacanberry.png"
+    },
+    {
+        "name": "Yache Berry",
+        "effect": "If a Pok\u00e9mon holding this Berry is hit with a supereffective Ice-type move, the power of that move will be weakened.",
+        "image": "https://www.serebii.net/itemdex/sprites/yacheberry.png"
+    },
+    {
+        "name": "Bug-Type Affinity Ticket",
+        "effect": "A ticket that makes you more likely to meet Bug-type Pok\u00e9mon in the next lineup.",
+        "image": "https://www.serebii.net/itemdex/sprites/bug-typeaffinityticket.png"
+    },
+    {
+        "name": "Dark-Type Affinity Ticket",
+        "effect": "A ticket that makes you more likely to meet Dark-type Pok\u00e9mon in the next lineup.",
+        "image": "https://www.serebii.net/itemdex/sprites/dark-typeaffinityticket.png"
+    },
+    {
+        "name": "Dragon-Type Affinity Ticket",
+        "effect": "A ticket that makes you more likely to meet Dragon-type Pok\u00e9mon in the next lineup.",
+        "image": "https://www.serebii.net/itemdex/sprites/dragon-typeaffinityticket.png"
+    },
+    {
+        "name": "Electric-Type Affinity Ticket",
+        "effect": "A ticket that makes you more likely to meet Electric-type Pok\u00e9mon in the next lineup.",
+        "image": "https://www.serebii.net/itemdex/sprites/electric-typeaffinityticket.png"
+    },
+    {
+        "name": "Fairy-Type Affinity Ticket",
+        "effect": "A ticket that makes you more likely to meet Fairy-type Pok\u00e9mon in the next lineup.",
+        "image": "https://www.serebii.net/itemdex/sprites/fairy-typeaffinityticket.png"
+    },
+    {
+        "name": "Fighting-Type Affinity Ticket",
+        "effect": "A ticket that makes you more likely to meet Fighting-type Pok\u00e9mon in the next lineup.",
+        "image": "https://www.serebii.net/itemdex/sprites/fighting-typeaffinityticket.png"
+    },
+    {
+        "name": "Fire-Type Affinity Ticket",
+        "effect": "A ticket that makes you more likely to meet Fire-type Pok\u00e9mon in the next lineup.",
+        "image": "https://www.serebii.net/itemdex/sprites/fire-typeaffinityticket.png"
+    },
+    {
+        "name": "Flying-Type Affinity Ticket",
+        "effect": "A ticket that makes you more likely to meet Flying-type Pok\u00e9mon in the next lineup.",
+        "image": "https://www.serebii.net/itemdex/sprites/flying-typeaffinityticket.png"
+    },
+    {
+        "name": "Ghost-Type Affinity Ticket",
+        "effect": "A ticket that makes you more likely to meet Ghost-type Pok\u00e9mon in the next lineup.",
+        "image": "https://www.serebii.net/itemdex/sprites/ghost-typeaffinityticket.png"
+    },
+    {
+        "name": "Grass-Type Affinity Ticket",
+        "effect": "A ticket that makes you more likely to meet Grass-type Pok\u00e9mon in the next lineup.",
+        "image": "https://www.serebii.net/itemdex/sprites/grass-typeaffinityticket.png"
+    },
+    {
+        "name": "Ground-Type Affinity Ticket",
+        "effect": "A ticket that makes you more likely to meet Ground-type Pok\u00e9mon in the next lineup.",
+        "image": "https://www.serebii.net/itemdex/sprites/ground-typeaffinityticket.png"
+    },
+    {
+        "name": "Ice-Type Affinity Ticket",
+        "effect": "A ticket that makes you more likely to meet Ice-type Pok\u00e9mon in the next lineup.",
+        "image": "https://www.serebii.net/itemdex/sprites/ice-typeaffinityticket.png"
+    },
+    {
+        "name": "Normal-Type Affinity Ticket",
+        "effect": "A ticket that makes you more likely to meet Normal-type Pok\u00e9mon in the next lineup.",
+        "image": "https://www.serebii.net/itemdex/sprites/normal-typeaffinityticket.png"
+    },
+    {
+        "name": "Poison-Type Affinity Ticket",
+        "effect": "A ticket that makes you more likely to meet Poison-type Pok\u00e9mon in the next lineup.",
+        "image": "https://www.serebii.net/itemdex/sprites/poison-typeaffinityticket.png"
+    },
+    {
+        "name": "Psychic-Type Affinity Ticket",
+        "effect": "A ticket that makes you more likely to meet Psychic-type Pok\u00e9mon in the next lineup.",
+        "image": "https://www.serebii.net/itemdex/sprites/psychic-typeaffinityticket.png"
+    },
+    {
+        "name": "Quick Coupon",
+        "effect": "A ticket that can be used to reduce the wait time in Recruit Ranch",
+        "image": "https://www.serebii.net/itemdex/sprites/quickcoupon.png"
+    },
+    {
+        "name": "Rock-Type Affinity Ticket",
+        "effect": "A ticket that makes you more likely to meet Rock-type Pok\u00e9mon in the next lineup.",
+        "image": "https://www.serebii.net/itemdex/sprites/rock-typeaffinityticket.png"
+    },
+    {
+        "name": "Steel-Type Affinity Ticket",
+        "effect": "A ticket that makes you more likely to meet Steel-type Pok\u00e9mon in the next lineup.",
+        "image": "https://www.serebii.net/itemdex/sprites/steel-typeaffinityticket.png"
+    },
+    {
+        "name": "Teammate Ticket",
+        "effect": "A ticket that can be used to recruit a Pok\u00e9mon at Recruit Ranch",
+        "image": "https://www.serebii.net/itemdex/sprites/teammateticket.png"
+    },
+    {
+        "name": "Training Ticket",
+        "effect": "A ticket that can be used to train a Pok\u00e9mon without using Victory Points",
+        "image": "https://www.serebii.net/itemdex/sprites/trainingticket.png"
+    },
+    {
+        "name": "Water-Type Affinity Ticket",
+        "effect": "A ticket that makes you more likely to meet Water-type Pok\u00e9mon in the next lineup.",
+        "image": "https://www.serebii.net/itemdex/sprites/water-typeaffinityticket.png"
+    }
+]
