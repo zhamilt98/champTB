@@ -55,7 +55,7 @@ if 'team' not in st.session_state:
             'name': '',
             'item': '',
             'ability': '',
-            'nature': 'Serious',
+            'nature': 'Adamant (+Atk, -SpA)',
             'evs': {'hp': 0, 'atk': 0, 'def': 0, 'spa': 0, 'spd': 0, 'spe': 0},
             'moves': ['', '', '', '']
         })
@@ -150,7 +150,7 @@ with tabs[0]:
                 
                 # Nature
                 current_nature = st.session_state.team[i]['nature']
-                nat_index = nature_names.index(current_nature) if current_nature in nature_names else nature_names.index("Serious")
+                nat_index = nature_names.index(current_nature) if current_nature in nature_names else 0
                 st.session_state.team[i]['nature'] = st.selectbox("Nature", nature_names, key=f"nat_{i}", index=nat_index)
                 
                 # SPs
@@ -387,7 +387,7 @@ with tabs[4]:
             # calculate defender stat (assuming max HP / max Def/SpD for worst case, or just base 0 EVs)
             # Let's assume 0 EVs, neutral nature for defender
             d_stat_name = 'def' if cat == 'Physical' else 'spd'
-            d_stat = calculate_stat(def_base['stats'][d_stat_name], 0, 'Serious', d_stat_name)
+            d_stat = calculate_stat(def_base['stats'][d_stat_name], 0, 'Neutral', d_stat_name)
             
             modifiers = []
             if helping_hand: modifiers.append(1.5)
@@ -404,7 +404,7 @@ with tabs[4]:
             damage = calculate_damage(50, power, a_stat, d_stat, modifiers)
             
             # Defender HP
-            d_hp = calculate_stat(def_base['stats']['hp'], 0, 'Serious', 'hp')
+            d_hp = calculate_stat(def_base['stats']['hp'], 0, 'Neutral', 'hp')
             pct = (damage / d_hp) * 100
             
             st.success(f"**Damage:** {damage} ({pct:.1f}% of {d_hp} HP) - {eff}x Effectiveness")
