@@ -180,10 +180,21 @@ with tabs[0]:
                 st.caption("Stats: " + " | ".join(stats_str))
                 
                 # Moves
+                base_name_for_moves = p_info['name'].split(' (')[0].replace('Mega ', '').replace('Alolan ', '').replace('Galarian ', '').replace('Hisuian ', '').replace('Paldean ', '').replace('Blade ', '')
+                if base_name_for_moves.endswith(' X') or base_name_for_moves.endswith(' Y'):
+                    base_name_for_moves = base_name_for_moves[:-2]
+                
+                p_available_moves = movepools_data.get(base_name_for_moves, [])
+                p_move_names = [""] + sorted([m for m in p_available_moves if m in moves_data])
+                
                 for m in range(4):
                     current_move = st.session_state.team[i]['moves'][m]
-                    mv_index = move_names.index(current_move) if current_move in move_names else 0
-                    st.session_state.team[i]['moves'][m] = st.selectbox(f"Move {m+1}", move_names, key=f"mv_{i}_{m}", index=mv_index)
+                    if current_move not in p_move_names and current_move != "":
+                        current_move = ""
+                        st.session_state.team[i]['moves'][m] = ""
+                        
+                    mv_index = p_move_names.index(current_move) if current_move in p_move_names else 0
+                    st.session_state.team[i]['moves'][m] = st.selectbox(f"Move {m+1}", p_move_names, key=f"mv_{i}_{m}", index=mv_index)
             else:
                 st.session_state.team[i]['name'] = ''
 
