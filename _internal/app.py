@@ -420,6 +420,19 @@ st.markdown(
         bottom: 20px !important;
         right: 20px !important;
         z-index: 9999 !important;
+        padding: 0.25rem 0.5rem !important;
+        font-size: 12px !important;
+        min-height: 30px !important;
+        width: auto !important;
+        background-color: #d3d3d3 !important;
+        color: black !important;
+        border: 1px solid #d3d3d3 !important;
+        transition: all 0.2s ease !important;
+    }
+    button[kind="primary"]:hover {
+        background-color: black !important;
+        color: white !important;
+        border: 1px solid black !important;
     }
     </style>
     """,
