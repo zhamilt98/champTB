@@ -1,21 +1,28 @@
 import streamlit as st
 import json
+import os
 import pandas as pd
 from utils import NATURES, calculate_stat, get_type_effectiveness, calculate_speed, calculate_damage
 
 # Set page config
 st.set_page_config(page_title="Pokemon Champions Team Builder", layout="wide")
 
+def get_data_dir():
+    if os.path.isdir('data'):
+        return 'data'
+    return '.'
+
 # Load data
 @st.cache_data
 def load_data():
-    with open('pokemon.json', 'r') as f:
+    data_dir = get_data_dir()
+    with open(os.path.join(data_dir, 'pokemon.json'), 'r') as f:
         pokemon = json.load(f)
-    with open('items.json', 'r') as f:
+    with open(os.path.join(data_dir, 'items.json'), 'r') as f:
         items = json.load(f)
-    with open('moves.json', 'r') as f:
+    with open(os.path.join(data_dir, 'moves.json'), 'r') as f:
         moves = json.load(f)
-    with open('movepools.json', 'r') as f:
+    with open(os.path.join(data_dir, 'movepools.json'), 'r') as f:
         movepools = json.load(f)
     return pokemon, items, moves, movepools
 
@@ -403,3 +410,68 @@ with tabs[4]:
             st.success(f"**Damage:** {damage} ({pct:.1f}% of {d_hp} HP) - {eff}x Effectiveness")
         else:
             st.warning("Selected move does not have a base power (status move).")
+
+# --- UPDATE BUTTON ---
+st.markdown(
+    """
+    <style>
+    button[kind="primary"] {
+        position: fixed !important;
+        bottom: 20px !important;
+        right: 20px !important;
+        z-index: 9999 !important;
+    }
+    </style>
+    """,
+    unsafe_allow_html=True
+)
+
+if st.button("🔄 Update App", type="primary"):
+    with st.spinner("Downloading updates from GitHub..."):
+        try:
+            import urllib.request
+            import zipfile
+            import io
+            import shutil
+            import os
+            import sys
+            
+            url = "https://github.com/zhamilt98/champTB/archive/refs/heads/main.zip"
+            req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
+            with urllib.request.urlopen(req) as response:
+                with zipfile.ZipFile(io.BytesIO(response.read())) as z:
+                    root_dir = z.namelist()[0]
+                    has_src = any(name.startswith(f"{root_dir}src/") for name in z.namelist())
+                    
+                    is_exe = hasattr(sys, '_MEIPASS')
+                    project_root = os.getcwd()
+                    
+                    for file_info in z.infolist():
+                        if file_info.is_dir(): continue
+                        rel_path = file_info.filename[len(root_dir):]
+                        
+                        if is_exe:
+                            filename = os.path.basename(rel_path)
+                            if filename.endswith('.py') or filename.endswith('.json'):
+                                target_path = os.path.join(project_root, filename)
+                            else:
+                                continue
+                        else:
+                            if not has_src:
+                                if rel_path.endswith('.json'):
+                                    target_path = os.path.join(project_root, 'data' if os.path.isdir('data') else '.', rel_path)
+                                else:
+                                    continue
+                            else:
+                                target_path = os.path.join(project_root, rel_path)
+                                
+                        os.makedirs(os.path.dirname(target_path), exist_ok=True)
+                        try:
+                            with z.open(file_info) as source, open(target_path, "wb") as target:
+                                shutil.copyfileobj(source, target)
+                        except PermissionError:
+                            pass
+            st.cache_data.clear()
+            st.success("Update successful! If the app doesn't reload automatically, please restart it.")
+        except Exception as e:
+            st.error(f"Update failed: {e}")
