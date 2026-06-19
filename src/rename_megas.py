@@ -1,7 +1,10 @@
+import os
 import json
 
+DATA_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'data')
+
 def rename_megas():
-    with open('pokemon.json', 'r') as f:
+    with open(os.path.join(DATA_DIR, 'pokemon.json'), 'r') as f:
         data = json.load(f)
         
     for p in data:
@@ -31,7 +34,7 @@ def rename_megas():
         elif img.endswith('-f.png'):
             p['name'] = p['name'] + ' (Female)'
             
-    with open('pokemon.json', 'w') as f:
+    with open(os.path.join(DATA_DIR, 'pokemon.json'), 'w') as f:
         json.dump(data, f, indent=4)
         
     print("Renamed forms successfully.")

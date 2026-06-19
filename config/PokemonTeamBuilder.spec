@@ -1,7 +1,7 @@
 # -*- mode: python ; coding: utf-8 -*-
 from PyInstaller.utils.hooks import collect_all
 
-datas = [('app.py', '.'), ('utils.py', '.'), ('pokemon.json', '.'), ('items.json', '.'), ('moves.json', '.'), ('movepools.json', '.')]
+datas = [('src/app.py', '.'), ('src/utils.py', '.'), ('data/pokemon.json', '.'), ('data/items.json', '.'), ('data/moves.json', '.'), ('data/movepools.json', '.')]
 binaries = []
 hiddenimports = []
 tmp_ret = collect_all('streamlit')
@@ -9,7 +9,7 @@ datas += tmp_ret[0]; binaries += tmp_ret[1]; hiddenimports += tmp_ret[2]
 
 
 a = Analysis(
-    ['run_app.py'],
+    ['src/run_app.py'],
     pathex=[],
     binaries=binaries,
     datas=datas,

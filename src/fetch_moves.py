@@ -1,5 +1,8 @@
+import os
 import requests
 import json
+
+DATA_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'data')
 
 def fetch_moves_graphql():
     url = "https://beta.pokeapi.co/graphql/v1beta"
@@ -36,7 +39,7 @@ def fetch_moves_graphql():
             'category': damage_class
         }
         
-    with open('moves.json', 'w') as f:
+    with open(os.path.join(DATA_DIR, 'moves.json'), 'w') as f:
         json.dump(moves, f, indent=4)
         
     print(f"Saved {len(moves)} moves to moves.json")

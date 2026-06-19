@@ -1,7 +1,10 @@
+import os
 import json
 
+DATA_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'data')
+
 def fix_megas():
-    with open('pokemon.json', 'r') as f:
+    with open(os.path.join(DATA_DIR, 'pokemon.json'), 'r') as f:
         data = json.load(f)
         
     counts = {}

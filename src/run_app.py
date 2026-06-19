@@ -7,8 +7,14 @@ def get_base_path():
         return sys._MEIPASS
     return os.path.dirname(os.path.abspath(__file__))
 
+def get_project_root():
+    if hasattr(sys, '_MEIPASS'):
+        return sys._MEIPASS
+    return os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+
 if __name__ == "__main__":
-    script_path = os.path.join(get_base_path(), "app.py")
+    base_path = get_base_path()
+    script_path = os.path.join(base_path, "app.py")
     sys.argv = [
         "streamlit",
         "run",
@@ -16,7 +22,6 @@ if __name__ == "__main__":
         "--global.developmentMode=false",
     ]
     
-    # Change current working directory to the base path so app.py can find the JSON files
-    os.chdir(get_base_path())
+    os.chdir(get_project_root())
     
     sys.exit(stcli.main())

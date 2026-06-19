@@ -1,6 +1,9 @@
+import os
 import requests
 from bs4 import BeautifulSoup
 import json
+
+DATA_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'data')
 
 def fetch_pokemon():
     url = "https://www.serebii.net/pokedex-champions/stat/hp.shtml"
@@ -62,7 +65,7 @@ def fetch_pokemon():
             "image": img_url
         })
         
-    with open('pokemon.json', 'w') as f:
+    with open(os.path.join(DATA_DIR, 'pokemon.json'), 'w') as f:
         json.dump(pokemon_list, f, indent=4)
     print(f"Saved {len(pokemon_list)} Pokemon")
 
@@ -93,7 +96,7 @@ def fetch_items():
                 "image": img_url
             })
             
-    with open('items.json', 'w') as f:
+    with open(os.path.join(DATA_DIR, 'items.json'), 'w') as f:
         json.dump(items, f, indent=4)
     print(f"Saved {len(items)} Items")
 

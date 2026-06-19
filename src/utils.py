@@ -51,10 +51,11 @@ TYPE_CHART = {
 
 def calculate_stat(base, sp, nature_name, stat_name, level=50):
     iv = 31
+    ev_bonus = (sp * 2 - 1) if sp > 0 else 0
     if stat_name == "hp":
-        return math.floor((2 * base + iv + sp) * level / 100) + level + 10
+        return math.floor((2 * base + iv + ev_bonus) * level / 100) + level + 10
     else:
-        stat = math.floor((2 * base + iv + sp) * level / 100) + 5
+        stat = math.floor((2 * base + iv + ev_bonus) * level / 100) + 5
         nature = NATURES.get(nature_name, {"plus": None, "minus": None})
         if nature["plus"] == stat_name:
             stat = math.floor(stat * 1.1)

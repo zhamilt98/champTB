@@ -1,5 +1,8 @@
+import os
 import requests
 import json
+
+DATA_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'data')
 
 def fetch_movepools():
     url = "https://beta.pokeapi.co/graphql/v1beta"
@@ -28,7 +31,7 @@ def fetch_movepools():
                 moves.add(move_name)
         movepools[name] = list(moves)
         
-    with open('movepools.json', 'w') as f:
+    with open(os.path.join(DATA_DIR, 'movepools.json'), 'w') as f:
         json.dump(movepools, f, indent=4)
         
     print(f"Saved movepools for {len(movepools)} pokemon")
